@@ -1,0 +1,10 @@
+{"source": "Source: Digit (18 Nov 2026), Altchar (27 Oct 2026)",
+ "scenes": [
+  {"vo": "New Zealand got G T A 6 seven and a half hours before India. Here is why.", "cap": "New Zealand got GTA 6 7.5 hours before India. Here's why.", "big": [["NZ FIRST", 180, "CYAN"], ["INDIA +7.5 HRS", 120, "PINK"]]},
+  {"vo": "It unlocked at midnight local time in each region. So the launch travelled around the world, east to west.", "cap": "It unlocked at midnight local time, so the launch moved east to west.", "big": [["MIDNIGHT", 170, "YELLOW"], ["LOCAL TIME", 120, "WHITE"]]},
+  {"vo": "New Zealand went first, at four thirty P M Indian time, on November eighteenth.", "cap": "New Zealand: 4:30 PM IST, 18 November", "big": [["NEW ZEALAND", 130, "WHITE"], ["4:30 PM IST", 150, "YELLOW"], ["18 NOV", 100, "GREY"]]},
+  {"vo": "Then Australia at six thirty, and Japan and South Korea at eight thirty, Indian time.", "cap": "Australia 6:30 PM, Japan and South Korea 8:30 PM IST (18 Nov)", "big": [["AUSTRALIA", 120, "WHITE"], ["6:30 PM", 130, "YELLOW"], ["JAPAN · KOREA", 110, "WHITE"], ["8:30 PM", 130, "YELLOW"]]},
+  {"vo": "India unlocked at midnight. The U A E an hour and a half later.", "cap": "India 12:00 AM, UAE 1:30 AM IST (19 Nov)", "big": [["INDIA", 150, "WHITE"], ["12:00 AM", 150, "YELLOW"], ["UAE 1:30 AM", 110, "CYAN"]]},
+  {"vo": "The U K at five thirty A M Indian time, and the U S east coast only at ten thirty A M.", "cap": "UK 5:30 AM, US East 10:30 AM IST (19 Nov)", "big": [["UK 5:30 AM", 120, "WHITE"], ["US EAST", 120, "WHITE"], ["10:30 AM", 140, "PINK"]]},
+  {"vo": "It is P S 5 and Xbox Series only, from five nine nine nine rupees. What time did you start playing? Comment below.", "cap": "PS5 and Xbox Series only, from ₹5,999. What time did you start?", "big": [["₹5,999", 200, "YELLOW"], ["PS5 · XBOX SERIES", 85, "CYAN"], ["WHAT TIME DID", 100, "PINK"], ["YOU START?", 100, "PINK"]]}
+ ]}

@@ -1,0 +1,152 @@
+{
+ "source": "Source: Asianet Newsable, Daily Jagran (18-19 Nov 2026)",
+ "scenes": [
+  {
+   "vo": "M S Dhoni has retired from the I P L. His career in six numbers.",
+   "cap": "MS Dhoni has retired from the IPL. His career in 6 numbers.",
+   "big": [
+    [
+     "MS DHONI",
+     170,
+     "YELLOW"
+    ],
+    [
+     "IPL CAREER",
+     120,
+     "WHITE"
+    ],
+    [
+     "IN 6 NUMBERS",
+     110,
+     "CYAN"
+    ]
+   ]
+  },
+  {
+   "vo": "Two hundred seventy eight matches.",
+   "cap": "1. 278 IPL matches",
+   "big": [
+    [
+     "COUNTER:278:",
+     260,
+     "YELLOW"
+    ],
+    [
+     "IPL MATCHES",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Five thousand four hundred thirty nine runs, strike rate one thirty seven.",
+   "cap": "2. 5,439 runs at a strike rate of 137.45",
+   "big": [
+    [
+     "COUNTER:5439:",
+     220,
+     "YELLOW"
+    ],
+    [
+     "RUNS",
+     110,
+     "WHITE"
+    ],
+    [
+     "SR 137.45",
+     120,
+     "CYAN"
+    ]
+   ]
+  },
+  {
+   "vo": "Two hundred sixty four sixes. Almost one every match.",
+   "cap": "3. 264 sixes, almost one per match",
+   "big": [
+    [
+     "COUNTER:264:",
+     240,
+     "PINK"
+    ],
+    [
+     "SIXES",
+     110,
+     "WHITE"
+    ],
+    [
+     "0.95 PER MATCH",
+     90,
+     "CYAN"
+    ]
+   ]
+  },
+  {
+   "vo": "Two hundred twenty six games as captain, the most ever, with one hundred thirty three wins.",
+   "cap": "4. 226 matches as captain, the most ever, with 133 wins",
+   "big": [
+    [
+     "226",
+     220,
+     "YELLOW"
+    ],
+    [
+     "MATCHES AS CAPTAIN",
+     80,
+     "WHITE"
+    ],
+    [
+     "133 WINS",
+     150,
+     "CYAN"
+    ]
+   ]
+  },
+  {
+   "vo": "Five titles with Chennai, from twenty ten to twenty twenty three.",
+   "cap": "5. Five titles: 2010, 2011, 2018, 2021, 2023",
+   "big": [
+    [
+     "5 TITLES",
+     190,
+     "YELLOW"
+    ],
+    [
+     "2010 · 2011 · 2018",
+     90,
+     "WHITE"
+    ],
+    [
+     "2021 · 2023",
+     90,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "And twenty twenty seven: his first season as C S K mentor. Which record will nobody break? Comment below.",
+   "cap": "6. 2027: his first season as CSK mentor. Which record lasts forever?",
+   "big": [
+    [
+     "2027",
+     220,
+     "CYAN"
+    ],
+    [
+     "NEW ROLE: MENTOR",
+     95,
+     "WHITE"
+    ],
+    [
+     "WHICH RECORD",
+     100,
+     "PINK"
+    ],
+    [
+     "LASTS FOREVER?",
+     100,
+     "PINK"
+    ]
+   ]
+  }
+ ]
+}
