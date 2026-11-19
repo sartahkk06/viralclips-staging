@@ -9,7 +9,7 @@ os.makedirs(OUT, exist_ok=True)
 W, H, FPS = 1080, 1920, 30
 FONT = "/usr/share/fonts/truetype/google-fonts/Poppins-Bold.ttf"
 FONT_M = "/usr/share/fonts/truetype/google-fonts/Poppins-Medium.ttf"
-VOICE = "/home/claude/work/voices/en_US-ryan-high.onnx"
+VOICE = "/home/claude/work/voices/en_US-joe-medium.onnx"
 
 BG1, BG2 = (10, 8, 24), (48, 12, 64)
 PINK, CYAN, YELLOW, WHITE, GREY = (255, 64, 160), (60, 220, 255), (255, 214, 64), (255, 255, 255), (170, 170, 190)
