@@ -2,6 +2,9 @@
 Usage: python3 make_clip.py <out_dir> <spec.json>
 spec.json: {"source": "...", "scenes": [{"vo": "spoken text", "cap": "caption", "big": [["TEXT", size, "PINK|CYAN|YELLOW|WHITE|GREY"], ...]}]}
 A big line "COUNTER:<number>:<prefix>" animates a count-up to <number>.
+Optional per scene: "media": "<local path to .jpg/.png/.mp4/.webm/.mov>" -> licensed real photo/video as the
+background (cover-cropped to 9:16, slow zoom for photos, darkened so text stays readable). Every media file must be
+logged with source URL + license in clipNN-assets-and-rights.md and credited in the description.
 Font: Poppins Bold (no emoji, no checkmarks; use words). Allowed symbols include ₹ ≈ × … ·
 """
 import json, math, os, subprocess, sys, wave
@@ -19,7 +22,52 @@ PINK, CYAN, YELLOW, WHITE, GREY = (255, 64, 160), (60, 220, 255), (255, 214, 64)
 
 SPEC = json.load(open(sys.argv[2]))
 COLORS = dict(PINK=PINK, CYAN=CYAN, YELLOW=YELLOW, WHITE=WHITE, GREY=GREY)
-SCENES = [dict(vo=s["vo"], cap=s["cap"], big=[(b[0], b[1], COLORS[b[2]]) for b in s["big"]]) for s in SPEC["scenes"]]
+SCENES = [dict(vo=s["vo"], cap=s["cap"], big=[(b[0], b[1], COLORS[b[2]]) for b in s["big"]], media=s.get("media"))
+          for s in SPEC["scenes"]]
+VIDEO_EXT = (".mp4", ".webm", ".mov", ".mkv")
+
+
+def cover(img):
+    img = img.convert("RGB")
+    k = max(W / img.width, H / img.height)
+    img = img.resize((max(W, int(img.width * k + 0.5)), max(H, int(img.height * k + 0.5))), Image.LANCZOS)
+    l, t = (img.width - W) // 2, (img.height - H) // 2
+    return img.crop((l, t, l + W, t + H))
+
+
+def darken(img):
+    shade = Image.new("RGB", (W, H), (0, 0, 0))
+    return Image.blend(img, shade, 0.45)
+
+
+class Media:
+    """Yields one 1080x1920 background frame per call for a scene's media file."""
+    def __init__(self, path):
+        self.path, self.proc, self.img = path, None, None
+        if path.lower().endswith(VIDEO_EXT):
+            self._open()
+        else:
+            self.img = cover(Image.open(path))
+
+    def _open(self):
+        vf = f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps={FPS}"
+        self.proc = subprocess.Popen(["ffmpeg", "-loglevel", "error", "-i", self.path, "-an", "-vf", vf,
+                                      "-f", "rawvideo", "-pix_fmt", "rgb24", "-"], stdout=subprocess.PIPE)
+
+    def frame(self, lt):
+        if self.img is not None:  # slow Ken Burns zoom
+            z = 1 + 0.06 * min(lt / 8, 1)
+            w, h = int(W / z), int(H / z)
+            l, t = (W - w) // 2, (H - h) // 2
+            return darken(self.img.crop((l, t, l + w, t + h)).resize((W, H), Image.BILINEAR))
+        buf = self.proc.stdout.read(W * H * 3)
+        if len(buf) < W * H * 3:  # loop short clips
+            self.proc.wait(); self._open(); buf = self.proc.stdout.read(W * H * 3)
+        return darken(Image.frombytes("RGB", (W, H), buf))
+
+    def close(self):
+        if self.proc:
+            self.proc.kill()
 SOURCE = SPEC.get("source", "")
 
 
@@ -98,12 +146,17 @@ def render():
                              f"{OUT}/clip.mp4"], stdin=subprocess.PIPE)
     nframes = int(total * FPS)
     cap_f, src_f = font(58), font(30, medium=True)
+    media, cur_idx = None, -1
     for n in range(nframes):
         t = n / FPS
         idx = max(i for i, (s0, _, _) in enumerate(timeline) if s0 <= t)
         s0, dur, sc = timeline[idx]
         lt = t - s0
-        img = bg_frame(t)
+        if idx != cur_idx:
+            if media: media.close()
+            media = Media(sc["media"]) if sc.get("media") else None
+            cur_idx = idx
+        img = media.frame(lt) if media else bg_frame(t)
         d = ImageDraw.Draw(img)
         # big animated lines, staggered pop-in
         y = 430
@@ -133,6 +186,7 @@ def render():
         proc.stdin.write(img.tobytes())
         if n == int(1.0 * FPS):
             img.save(f"{OUT}/thumb.png")
+    if media: media.close()
     proc.stdin.close(); proc.wait()
     json.dump({"duration": total, "scenes": [s["cap"] for s in SCENES]}, open(f"{OUT}/meta.json", "w"), indent=1)
 
