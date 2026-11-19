@@ -44,3 +44,12 @@ Instagram is OFF until Sarthak says to add it.
 - Never delete or edit Sarthak's existing videos. Only touch videos this pipeline uploaded (listed in log.csv).
 - If any sign of a copyright claim, warning or strike on the account appears, stop posting and message Sarthak.
 - Never mention S3K Technologies' client names in any content.
+
+## Monetization safety (Sarthak: "monetization should not hurt")
+- Post max 5 per day, at least 2h apart, even if 10 are made. Never bulk-post.
+- YouTube's inauthentic / mass-produced content rule: every clip must add real original value (analysis, comparison, explanation), not read out a news headline. No two clips the same day on the same story with the same angle.
+- Vary the look: rotate layouts, colours and real-media backgrounds; don't let every clip use the same template, hook wording or ending line.
+- Reused content rule: no third-party footage, even short; licensed stock is background only, with our own narration and text as the main content.
+- If a clip is realistic AI-made imagery of real people/events (we don't make these), turn on the "altered or synthetic content" label. AI voice over our own text needs no label, but keep "Voiceover: AI-generated" in the description.
+- No clickbait titles that the video doesn't deliver on. Advertiser-friendly topics only.
+- If YPP status, a monetization warning, or limited ads (yellow $) appears on any clip, stop producing, tell Sarthak.
