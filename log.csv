@@ -1,9 +1,9 @@
 date,clip_id,trend,idea,assets_and_licenses,copyright_check,yt_id,yt_link,status,views_24h,likes_24h,views_7d,likes_7d,notes
-2026-11-19,clip01,GTA 6 launch (19 Nov),"GTA 6 is ₹5,999 but day one with a new PS5 ≈ ₹70,989","original visuals; Piper joe-medium CC0 voice; Poppins OFL; no music",PASS,Hl-2zkxjibI,https://www.youtube.com/watch?v=Hl-2zkxjibI,unlisted-approved,,,,,"source: Business Today 4 Nov 2026"
-2026-11-19,clip02,MS Dhoni retires from IPL (CSK mentor from 2027),"Dhoni's IPL career in 6 numbers","original visuals; Piper joe-medium CC0 voice; Poppins OFL; no music; no photos/logos",PASS,iS7jn8MSdxc,https://www.youtube.com/watch?v=iS7jn8MSdxc,unlisted-approved,,,,,"sources: Asianet Newsable 18 Nov 2026; Daily Jagran 19 Nov 2026; 34.4s"
-2026-11-19,clip03,GTA 6 launch (19 Nov) - global unlock times,"Why New Zealand got GTA 6 7.5h before India","original visuals; Piper joe-medium CC0 voice; Poppins OFL; no music; no game footage/logos",PASS,vLi_0mYeg7Y,https://www.youtube.com/watch?v=vLi_0mYeg7Y,unlisted-approved,,,,,"sources: Digit 18 Nov 2026; Altchar 27 Oct 2026; 40.3s"
-2026-11-19,skip,GTA 6 210 GB download,"Download time on Indian broadband",,SKIP,,,skipped,,,,,"210 GB is unofficial (PSN-scraper account), not confirmed by Rockstar/PlayStation"
-2026-11-19,skip,Motorola Signature 27,"India price vs specs",,SKIP,,,skipped,,,,,"no official India price in retrieved sources"
-2026-11-19,skip,BGMI Lite,"What we know",,SKIP,,,skipped,,,,,"no specs or date; would be speculation"
-2026-11-19,skip,India vs NZ 1st Test,"Gill's first Test in NZ",,SKIP,,,skipped,,,,,"no score/stat source retrieved"
-2026-11-19,skip,Cyclone Akvan,—,,SKIP,,,skipped,,,,,"disaster news excluded by rule"
+2026-11-19,clip01,GTA 6 launch (19 Nov),"GTA 6 is ₹5,999 but day one with a new PS5 ≈ ₹70,989",original visuals; Piper joe-medium CC0 voice; Poppins OFL; no music,PASS,Hl-2zkxjibI,https://www.youtube.com/watch?v=Hl-2zkxjibI,public,,,,,source: Business Today 4 Nov 2026; published 2026-11-19 19:12 IST
+2026-11-19,clip02,MS Dhoni retires from IPL (CSK mentor from 2027),Dhoni's IPL career in 6 numbers,original visuals; Piper joe-medium CC0 voice; Poppins OFL; no music; no photos/logos,PASS,iS7jn8MSdxc,https://www.youtube.com/watch?v=iS7jn8MSdxc,unlisted-approved,,,,,sources: Asianet Newsable 18 Nov 2026; Daily Jagran 19 Nov 2026; 34.4s
+2026-11-19,clip03,GTA 6 launch (19 Nov) - global unlock times,Why New Zealand got GTA 6 7.5h before India,original visuals; Piper joe-medium CC0 voice; Poppins OFL; no music; no game footage/logos,PASS,vLi_0mYeg7Y,https://www.youtube.com/watch?v=vLi_0mYeg7Y,unlisted-approved,,,,,sources: Digit 18 Nov 2026; Altchar 27 Oct 2026; 40.3s
+2026-11-19,skip,GTA 6 210 GB download,Download time on Indian broadband,,SKIP,,,skipped,,,,,"210 GB is unofficial (PSN-scraper account), not confirmed by Rockstar/PlayStation"
+2026-11-19,skip,Motorola Signature 27,India price vs specs,,SKIP,,,skipped,,,,,no official India price in retrieved sources
+2026-11-19,skip,BGMI Lite,What we know,,SKIP,,,skipped,,,,,no specs or date; would be speculation
+2026-11-19,skip,India vs NZ 1st Test,Gill's first Test in NZ,,SKIP,,,skipped,,,,,no score/stat source retrieved
+2026-11-19,skip,Cyclone Akvan,—,,SKIP,,,skipped,,,,,disaster news excluded by rule
