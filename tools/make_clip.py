@@ -24,7 +24,7 @@ SOURCE = SPEC.get("source", "")
 
 
 def tts(text, path):
-    subprocess.run(["python3", "-m", "piper", "-m", VOICE, "-f", path, "--length-scale", "0.92"],
+    subprocess.run(["python3", "-m", "piper", "-m", VOICE, "-f", path, "--length-scale", "0.84"],
                    input=text.encode(), check=True, capture_output=True)
     with wave.open(path) as w:
         return w.getnframes() / w.getframerate()
