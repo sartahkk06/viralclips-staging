@@ -1,6 +1,6 @@
 """Render an original 1080x1920 Short: CC0 voiceover (Piper joe-medium) + animated text + burned captions.
 Usage: python3 make_clip.py <out_dir> <spec.json>
-spec.json: {"source": "...", "scenes": [{"vo": "spoken text", "cap": "caption", "big": [["TEXT", size, "PINK|CYAN|YELLOW|WHITE|GREY"], ...]}]}
+spec.json: {"source": "...", "scenes": [{"vo": "spoken text", "cap": "caption", "big": [["TEXT", size, "PINK|CYAN|YELLOW|WHITE|GREY|RED"], ...]}], "theme": "neon|horror|story", "speed": 0.84}
 A big line "COUNTER:<number>:<prefix>" animates a count-up to <number>.
 Optional per scene: "media": "<local path to .jpg/.png/.mp4/.webm/.mov>" -> licensed real photo/video as the
 background (cover-cropped to 9:16, slow zoom for photos, darkened so text stays readable). Every media file must be
@@ -19,9 +19,10 @@ VOICE = "/home/claude/work/voices/en_US-joe-medium.onnx"
 
 BG1, BG2 = (10, 8, 24), (48, 12, 64)
 PINK, CYAN, YELLOW, WHITE, GREY = (255, 64, 160), (60, 220, 255), (255, 214, 64), (255, 255, 255), (170, 170, 190)
+RED = (220, 20, 30)
 
 SPEC = json.load(open(sys.argv[2]))
-COLORS = dict(PINK=PINK, CYAN=CYAN, YELLOW=YELLOW, WHITE=WHITE, GREY=GREY)
+COLORS = dict(PINK=PINK, CYAN=CYAN, YELLOW=YELLOW, WHITE=WHITE, GREY=GREY, RED=RED)
 SCENES = [dict(vo=s["vo"], cap=s["cap"], big=[(b[0], b[1], COLORS[b[2]]) for b in s["big"]], media=s.get("media"))
           for s in SPEC["scenes"]]
 VIDEO_EXT = (".mp4", ".webm", ".mov", ".mkv")
@@ -69,10 +70,19 @@ class Media:
         if self.proc:
             self.proc.kill()
 SOURCE = SPEC.get("source", "")
+# Optional top-level "theme": "neon" (default, news/explainers) | "horror" (black to blood-red, flicker, no grid)
+# | "story" (deep blue night sky with drifting stars). Optional "speed": Piper length-scale (default 0.84;
+# use ~1.0 for horror/suspense narration so it lands slower and creepier).
+THEME = SPEC.get("theme", "neon")
+SPEED = str(SPEC.get("speed", 0.84))
+if THEME == "horror":
+    BG1, BG2 = (4, 2, 2), (70, 4, 8)
+elif THEME == "story":
+    BG1, BG2 = (6, 10, 30), (30, 24, 70)
 
 
 def tts(text, path):
-    subprocess.run(["python3", "-m", "piper", "-m", VOICE, "-f", path, "--length-scale", "0.84"],
+    subprocess.run(["python3", "-m", "piper", "-m", VOICE, "-f", path, "--length-scale", SPEED],
                    input=text.encode(), check=True, capture_output=True)
     with wave.open(path) as w:
         return w.getnframes() / w.getframerate()
@@ -89,6 +99,22 @@ def bg_frame(t):
         k = y / H
         c = tuple(int(BG1[i] * (1 - k) + BG2[i] * k) for i in range(3))
         d.rectangle([0, y, W, y + 8], fill=c)
+    if THEME == "horror":
+        # slow pulsing vignette + occasional flicker (original motion graphic)
+        pulse = 0.5 + 0.5 * math.sin(t * 1.3)
+        for r in range(0, 420, 30):
+            a = int(60 * (1 - r / 420) * (0.6 + 0.4 * pulse))
+            d.rectangle([r, r, W - r, H - r], outline=(a // 3, 0, 0), width=30)
+        if int(t * 7) % 37 == 0:
+            img = Image.eval(img, lambda v: int(v * 0.55))
+        return img
+    if THEME == "story":
+        for k in range(70):
+            x = (k * 337 + int(t * (8 + k % 5))) % W
+            y = (k * 911) % 1300
+            b = 120 + int(100 * (0.5 + 0.5 * math.sin(t * 2 + k)))
+            d.ellipse([x, y, x + 4 + k % 3, y + 4 + k % 3], fill=(b, b, min(255, b + 40)))
+        return img
     # drifting neon grid lines (original motion graphic)
     off = int((t * 60) % 120)
     for y in range(1100 + off, H, 120):
@@ -181,7 +207,7 @@ def render():
         for k, ln in enumerate(lines):
             text_center(d, top + 20 + k * 76, ln, cap_f, WHITE, stroke=3)
         # progress bar (helps loop feel) + source line
-        d.rectangle([0, H - 14, int(W * t / total), H], fill=PINK)
+        d.rectangle([0, H - 14, int(W * t / total), H], fill=RED if THEME == "horror" else PINK)
         text_center(d, H - 120, SOURCE, src_f, GREY, stroke=2)
         proc.stdin.write(img.tobytes())
         if n == int(1.0 * FPS):
