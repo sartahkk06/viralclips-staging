@@ -1,0 +1,104 @@
+{
+ "theme": "horror",
+ "speed": 1.0,
+ "source": "Original fiction",
+ "scenes": [
+  {
+   "vo": "Last week, my reflection blinked half a second after me.",
+   "cap": "My reflection blinked half a second after me.",
+   "big": [
+    [
+     "0.5 SEC",
+     180,
+     "RED"
+    ],
+    [
+     "LATE",
+     140,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "I told myself I was tired. But the next day, it was one full second.",
+   "cap": "The next day, it was one full second.",
+   "big": [
+    [
+     "1 SEC",
+     180,
+     "RED"
+    ]
+   ]
+  },
+  {
+   "vo": "Then it started doing things first. It smiled before I did. It turned off the light before I reached the switch.",
+   "cap": "Then it started moving first. It smiled before I did.",
+   "big": [
+    [
+     "IT MOVED",
+     140,
+     "WHITE"
+    ],
+    [
+     "FIRST",
+     160,
+     "RED"
+    ]
+   ]
+  },
+  {
+   "vo": "Last night, the bathroom mirror was fogged up. Someone had written one word on it. From the inside.",
+   "cap": "The mirror fogged up. One word, written from the inside.",
+   "big": [
+    [
+     "FROM THE",
+     120,
+     "WHITE"
+    ],
+    [
+     "INSIDE",
+     160,
+     "RED"
+    ]
+   ]
+  },
+  {
+   "vo": "The word was. Swap.",
+   "cap": "\"SWAP?\"",
+   "big": [
+    [
+     "SWAP?",
+     220,
+     "RED"
+    ]
+   ]
+  },
+  {
+   "vo": "This morning, I blinked, and the person in the mirror blinked first. They looked relieved.",
+   "cap": "This morning, the one in the mirror blinked first. And looked relieved.",
+   "big": [
+    [
+     "RELIEVED",
+     150,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Go check yours. Blink. Did it wait?",
+   "cap": "Go check your mirror. Blink. Did it wait?",
+   "big": [
+    [
+     "BLINK",
+     170,
+     "WHITE"
+    ],
+    [
+     "DID IT WAIT?",
+     110,
+     "RED"
+    ]
+   ]
+  }
+ ]
+}

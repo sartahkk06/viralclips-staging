@@ -1,0 +1,147 @@
+{
+ "source": "Source: Sacnilk (19 Nov 2026), trade estimates",
+ "scenes": [
+  {
+   "vo": "Ramayana Part 1 broke a box office record in just six days.",
+   "cap": "Ramayana: Part 1 broke a box office record in just 6 days.",
+   "big": [
+    [
+     "RECORD",
+     180,
+     "YELLOW"
+    ],
+    [
+     "IN 6 DAYS",
+     130,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "The record: the biggest second week ever at the Indian box office, by trade tracker Sacnilk's numbers.",
+   "cap": "Biggest 2nd-week India net ever (Sacnilk trade figures)",
+   "big": [
+    [
+     "BIGGEST",
+     130,
+     "CYAN"
+    ],
+    [
+     "2ND WEEK",
+     150,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Pushpa 2's full second week made two sixty four point eight crore India net. Baahubali 2 made two sixty four crore.",
+   "cap": "Full 2nd week: Pushpa 2 ₹264.80 Cr, Baahubali 2 ₹264.00 Cr",
+   "big": [
+    [
+     "PUSHPA 2",
+     110,
+     "WHITE"
+    ],
+    [
+     "₹264.80 CR",
+     120,
+     "GREY"
+    ],
+    [
+     "BAAHUBALI 2",
+     110,
+     "WHITE"
+    ],
+    [
+     "₹264.00 CR",
+     120,
+     "GREY"
+    ]
+   ]
+  },
+  {
+   "vo": "Ramayana made two seventy nine point eight crore in only the first six days of its second week.",
+   "cap": "Ramayana: ₹279.80 Cr in the first 6 days of week 2",
+   "big": [
+    [
+     "RAMAYANA",
+     120,
+     "WHITE"
+    ],
+    [
+     "₹279.80 CR",
+     150,
+     "YELLOW"
+    ],
+    [
+     "IN 6 DAYS",
+     100,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "Worldwide, it stood at fourteen thirty seven crore after twelve days, ahead of Dhurandhar 2 at the same point.",
+   "cap": "Worldwide after 12 days: ₹1,437.25 Cr (Dhurandhar 2: ₹1,394.20 Cr)",
+   "big": [
+    [
+     "₹1,437 CR",
+     150,
+     "YELLOW"
+    ],
+    [
+     "WORLDWIDE",
+     100,
+     "WHITE"
+    ],
+    [
+     "12 DAYS",
+     100,
+     "GREY"
+    ]
+   ]
+  },
+  {
+   "vo": "But here is the twist. In fourteen days it sold about fourteen million tickets. Dhurandhar 2 had sold about fifteen million.",
+   "cap": "Tickets in 14 days: Ramayana ~14.01M vs Dhurandhar 2 ~14.95M",
+   "big": [
+    [
+     "14.01M",
+     140,
+     "CYAN"
+    ],
+    [
+     "VS",
+     90,
+     "GREY"
+    ],
+    [
+     "14.95M",
+     140,
+     "PINK"
+    ],
+    [
+     "TICKETS",
+     100,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Fewer tickets, more money. Sacnilk points to ticket pricing and premium formats. Would you pay extra for a premium screen? Comment below.",
+   "cap": "Fewer tickets, more money: pricing and premium formats. Would you pay extra?",
+   "big": [
+    [
+     "FEWER TICKETS",
+     110,
+     "WHITE"
+    ],
+    [
+     "MORE MONEY",
+     120,
+     "YELLOW"
+    ]
+   ]
+  }
+ ]
+}

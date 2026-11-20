@@ -1,0 +1,103 @@
+{
+ "theme": "story",
+ "speed": 0.95,
+ "source": "Original fiction · Part 1",
+ "scenes": [
+  {
+   "vo": "My night bus ticket said seat fourteen B. The bus only had thirteen rows.",
+   "cap": "My ticket said seat 14B. The bus only had 13 rows.",
+   "big": [
+    [
+     "SEAT 14B",
+     170,
+     "YELLOW"
+    ],
+    [
+     "13 ROWS",
+     130,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "I showed the conductor. He didn't even look up. Back of the bus, he said. Row fourteen is always there after midnight.",
+   "cap": "Conductor: \"Row 14 is always there after midnight.\"",
+   "big": [
+    [
+     "AFTER",
+     120,
+     "WHITE"
+    ],
+    [
+     "MIDNIGHT",
+     150,
+     "CYAN"
+    ]
+   ]
+  },
+  {
+   "vo": "At twelve sharp, I walked to the back. There it was. One extra row. Four seats. Three people, fast asleep.",
+   "cap": "12:00. One extra row. Three passengers, fast asleep.",
+   "big": [
+    [
+     "ROW 14",
+     170,
+     "YELLOW"
+    ]
+   ]
+  },
+  {
+   "vo": "Their tickets were in their laps. Same route. Same seat numbers. But every ticket was dated a year ago.",
+   "cap": "Their tickets: same route. Dated one year ago.",
+   "big": [
+    [
+     "DATED",
+     120,
+     "WHITE"
+    ],
+    [
+     "1 YEAR AGO",
+     140,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "I sat down. The man next to me opened one eye and whispered. You're new. Whatever happens, don't look out of the window when the bus stops.",
+   "cap": "\"You're new. Don't look out of the window when the bus stops.\"",
+   "big": [
+    [
+     "DON'T LOOK",
+     140,
+     "PINK"
+    ],
+    [
+     "OUTSIDE",
+     130,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Then the bus stopped. And someone outside tapped on my window. Part two tomorrow. What would you do?",
+   "cap": "The bus stopped. Something tapped on my window. Part 2 tomorrow.",
+   "big": [
+    [
+     "TAP",
+     130,
+     "WHITE"
+    ],
+    [
+     "TAP",
+     130,
+     "WHITE"
+    ],
+    [
+     "PART 2",
+     150,
+     "YELLOW"
+    ]
+   ]
+  }
+ ]
+}

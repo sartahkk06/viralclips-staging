@@ -1,0 +1,122 @@
+{
+ "source": "Source: GTA BOOM (19 Nov), AltChar (18 Nov), citing Digital Foundry",
+ "scenes": [
+  {
+   "vo": "G T A 6 has no sixty F P S mode. Not even on the P S 5 Pro.",
+   "cap": "GTA 6 has no 60 FPS mode. Not even on PS5 Pro.",
+   "big": [
+    [
+     "30 FPS",
+     200,
+     "YELLOW"
+    ],
+    [
+     "ONLY",
+     130,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "Digital Foundry tested every console. Every one targets thirty.",
+   "cap": "Digital Foundry: every console version targets 30 FPS",
+   "big": [
+    [
+     "EVERY CONSOLE",
+     110,
+     "WHITE"
+    ],
+    [
+     "TARGETS 30",
+     130,
+     "CYAN"
+    ]
+   ]
+  },
+  {
+   "vo": "P S 5 Pro looks best: fourteen forty p, upscaled with P S S R to near 4K.",
+   "cap": "PS5 Pro: 1440p internal, PSSR upscale to near-4K",
+   "big": [
+    [
+     "PS5 PRO",
+     150,
+     "CYAN"
+    ],
+    [
+     "1440p TO ~4K",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Base P S 5 is also fourteen forty p, but heavy action dipped to twenty three F P S.",
+   "cap": "Base PS5: 1440p, worst-case dips to 23 FPS",
+   "big": [
+    [
+     "BASE PS5",
+     130,
+     "WHITE"
+    ],
+    [
+     "DIPS TO 23",
+     130,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "Series S is weakest: seven twenty p, upscaled to about ten eighty, often below thirty.",
+   "cap": "Series S: 720p, upscaled to ~1080p, often below 30 FPS",
+   "big": [
+    [
+     "SERIES S",
+     130,
+     "WHITE"
+    ],
+    [
+     "720p",
+     150,
+     "YELLOW"
+    ],
+    [
+     "OFTEN BELOW 30",
+     95,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "Why thirty? At thirty F P S each frame gets about thirty three milliseconds. At sixty, only about seventeen.",
+   "cap": "At 30 FPS each frame gets ~33 ms. At 60 FPS, ~16.7 ms.",
+   "big": [
+    [
+     "33 MS",
+     160,
+     "YELLOW"
+    ],
+    [
+     "PER FRAME",
+     110,
+     "WHITE"
+    ],
+    [
+     "VS 16.7 MS AT 60",
+     80,
+     "GREY"
+    ]
+   ]
+  },
+  {
+   "vo": "More time per frame, more detail. Sharper at thirty, or smoother at sixty? Comment below.",
+   "cap": "Sharper at 30 or smoother at 60? Comment below.",
+   "big": [
+    [
+     "30 OR 60?",
+     170,
+     "PINK"
+    ]
+   ]
+  }
+ ]
+}

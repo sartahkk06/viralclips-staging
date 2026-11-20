@@ -1,0 +1,129 @@
+{
+ "theme": "story",
+ "speed": 0.84,
+ "source": "Source: NASA (19 Nov 2026)",
+ "scenes": [
+  {
+   "vo": "A message from Earth now takes one full day to reach Voyager 1.",
+   "cap": "A message from Earth now takes one full day to reach Voyager 1.",
+   "big": [
+    [
+     "1 LIGHT-DAY",
+     150,
+     "YELLOW"
+    ],
+    [
+     "FROM EARTH",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "On November eighteenth, NASA's Voyager 1 became the first human-made object one light-day away.",
+   "cap": "18 Nov 2026: the first human-made object one light-day away",
+   "big": [
+    [
+     "18 NOV 2026",
+     130,
+     "CYAN"
+    ],
+    [
+     "FIRST EVER",
+     120,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "That is about twenty five point nine billion kilometres. Even light needs twenty four hours to cover it.",
+   "cap": "About 25.9 billion km. Light needs 24 hours to cover it.",
+   "big": [
+    [
+     "25.9 BILLION",
+     120,
+     "YELLOW"
+    ],
+    [
+     "KILOMETRES",
+     100,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "So a command takes twenty four hours to arrive, and the reply takes twenty four more. Two days for one conversation.",
+   "cap": "24 hours there, 24 hours back: two days for one conversation",
+   "big": [
+    [
+     "24 HRS THERE",
+     110,
+     "CYAN"
+    ],
+    [
+     "24 HRS BACK",
+     110,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "It launched in 1977 and has flown for over forty nine years, at about sixty one thousand kilometres an hour.",
+   "cap": "Launched 1977. 49+ years of travel at about 61,155 km/h.",
+   "big": [
+    [
+     "SINCE 1977",
+     130,
+     "WHITE"
+    ],
+    [
+     "~61,000 KM/H",
+     110,
+     "YELLOW"
+    ]
+   ]
+  },
+  {
+   "vo": "In 2012 it entered interstellar space. But both Voyagers lose about four watts of power a year.",
+   "cap": "First in interstellar space (2012). Both Voyagers lose ~4 watts a year.",
+   "big": [
+    [
+     "INTERSTELLAR",
+     110,
+     "CYAN"
+    ],
+    [
+     "SINCE 2012",
+     120,
+     "WHITE"
+    ],
+    [
+     "-4 WATTS/YEAR",
+     100,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "And since November fourteenth, NASA gets no science data, only a carrier signal. Would you wait a day for the reply?",
+   "cap": "No science data since 14 Nov, only a carrier signal. Would you wait?",
+   "big": [
+    [
+     "NO DATA",
+     140,
+     "RED"
+    ],
+    [
+     "SINCE 14 NOV",
+     110,
+     "WHITE"
+    ],
+    [
+     "WOULD YOU WAIT?",
+     90,
+     "YELLOW"
+    ]
+   ]
+  }
+ ]
+}

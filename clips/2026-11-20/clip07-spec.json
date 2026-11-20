@@ -1,0 +1,132 @@
+{
+ "source": "Source: Beebom (12 Nov 2026), TechNode (22 Sep 2026)",
+ "scenes": [
+  {
+   "vo": "Vivo X500 comes to India on November twenty sixth. Here is what is confirmed, and what is only a leak.",
+   "cap": "Vivo X500 India launch: 26 Nov. Confirmed vs leaked.",
+   "big": [
+    [
+     "26 NOV",
+     180,
+     "YELLOW"
+    ],
+    [
+     "CONFIRMED",
+     110,
+     "CYAN"
+    ],
+    [
+     "VS LEAKED",
+     110,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "Confirmed by Vivo: the India launch date, and a teased new red finish.",
+   "cap": "Confirmed: India launch date + a new red finish (teaser)",
+   "big": [
+    [
+     "CONFIRMED",
+     120,
+     "CYAN"
+    ],
+    [
+     "DATE + RED",
+     120,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "In China, the base X500 has a Dimensity ninety six hundred M chip, a six point five nine inch 144 hertz screen, and a seventy five hundred milliamp hour battery.",
+   "cap": "X500 (China): Dimensity 9600M, 6.59-inch 144Hz OLED, 7,500 mAh",
+   "big": [
+    [
+     "X500 (CHINA)",
+     110,
+     "WHITE"
+    ],
+    [
+     "6.59-INCH 144Hz",
+     95,
+     "CYAN"
+    ],
+    [
+     "7,500 mAh",
+     120,
+     "YELLOW"
+    ]
+   ]
+  },
+  {
+   "vo": "The China X500 Pro Max has a two hundred megapixel Zeiss telephoto camera and an eight thousand milliamp hour battery.",
+   "cap": "X500 Pro Max (China): 200MP Zeiss telephoto, 8,000 mAh",
+   "big": [
+    [
+     "PRO MAX",
+     130,
+     "WHITE"
+    ],
+    [
+     "200MP TELE",
+     120,
+     "YELLOW"
+    ],
+    [
+     "8,000 mAh",
+     110,
+     "CYAN"
+    ]
+   ]
+  },
+  {
+   "vo": "The X500 charges at ninety watts wired, and forty watts wireless.",
+   "cap": "X500: 90W wired, 40W wireless charging",
+   "big": [
+    [
+     "90W",
+     170,
+     "YELLOW"
+    ],
+    [
+     "40W WIRELESS",
+     100,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Not confirmed: India prices and the India line up. Leaked prices vary widely, so wait for the twenty sixth.",
+   "cap": "Not confirmed: India prices and line-up. Leaks vary widely.",
+   "big": [
+    [
+     "INDIA PRICE",
+     120,
+     "WHITE"
+    ],
+    [
+     "NOT ANNOUNCED",
+     110,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "Would you buy a flagship phone for the camera alone? Comment below.",
+   "cap": "Would you buy a flagship for the camera alone?",
+   "big": [
+    [
+     "CAMERA",
+     130,
+     "CYAN"
+    ],
+    [
+     "WORTH IT?",
+     130,
+     "YELLOW"
+    ]
+   ]
+  }
+ ]
+}

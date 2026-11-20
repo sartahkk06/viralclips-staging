@@ -1,0 +1,88 @@
+{
+ "theme": "story",
+ "speed": 0.95,
+ "source": "Original fiction",
+ "scenes": [
+  {
+   "vo": "An old clockmaker sold me a watch that adds one hour to every day.",
+   "cap": "An old clockmaker sold me a watch that adds one hour to every day.",
+   "big": [
+    [
+     "+1 HOUR",
+     180,
+     "YELLOW"
+    ],
+    [
+     "EVERY DAY",
+     120,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Twenty five hours a day. I couldn't believe it. So I used the extra hour for work. More emails. More meetings.",
+   "cap": "25-hour days. I used the extra hour for more work.",
+   "big": [
+    [
+     "25 HOURS",
+     160,
+     "CYAN"
+    ]
+   ]
+  },
+  {
+   "vo": "After a month, I was more tired than ever. The extra hour was always gone, and I never knew where.",
+   "cap": "After a month: more tired than ever.",
+   "big": [
+    [
+     "MORE TIRED",
+     140,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "I went back, angry. Your watch is broken. The old man opened the back of it. It was empty. No gears. Nothing.",
+   "cap": "I went back angry. He opened the watch. It was empty.",
+   "big": [
+    [
+     "EMPTY",
+     180,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "He smiled. It never added anything. It only made you believe one hour was yours. And you gave it away.",
+   "cap": "\"It never added anything. You just gave the hour away.\"",
+   "big": [
+    [
+     "YOU GAVE",
+     130,
+     "WHITE"
+    ],
+    [
+     "IT AWAY",
+     130,
+     "YELLOW"
+    ]
+   ]
+  },
+  {
+   "vo": "So now, every day, one hour belongs to me. No emails. No meetings. Which hour of your day is yours?",
+   "cap": "Now one hour a day is mine. Which hour is yours?",
+   "big": [
+    [
+     "WHICH HOUR",
+     130,
+     "CYAN"
+    ],
+    [
+     "IS YOURS?",
+     130,
+     "YELLOW"
+    ]
+   ]
+  }
+ ]
+}

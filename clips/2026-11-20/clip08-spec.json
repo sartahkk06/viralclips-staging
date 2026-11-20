@@ -1,0 +1,112 @@
+{
+ "source": "Source: The Tribune / ANI (20 Nov 2026)",
+ "scenes": [
+  {
+   "vo": "New Zealand were seventy for five. Then one batter refused to get out.",
+   "cap": "New Zealand were 70/5. Then one batter refused to get out.",
+   "big": [
+    [
+     "70/5",
+     200,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "First Test, Basin Reserve, Wellington. Shubman Gill won the toss and chose to bowl.",
+   "cap": "1st Test, Basin Reserve, Wellington. Gill won the toss, chose to bowl.",
+   "big": [
+    [
+     "WELLINGTON",
+     120,
+     "WHITE"
+    ],
+    [
+     "GILL BOWLS FIRST",
+     90,
+     "CYAN"
+    ]
+   ]
+  },
+  {
+   "vo": "Henry Nicholls finished on one seventy five not out, from three hundred thirty five balls.",
+   "cap": "Henry Nicholls: 175* off 335 balls (21 fours)",
+   "big": [
+    [
+     "175*",
+     200,
+     "YELLOW"
+    ],
+    [
+     "335 BALLS",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "The star means not out. All ten New Zealand wickets fell, and Nicholls was still standing at the other end.",
+   "cap": "175* = not out. All 10 wickets fell; Nicholls was still there.",
+   "big": [
+    [
+     "NOT OUT",
+     150,
+     "CYAN"
+    ],
+    [
+     "ALL 10 FELL",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Glenn Phillips added one eighteen, and New Zealand reached three sixty eight.",
+   "cap": "Glenn Phillips 118. New Zealand all out 368.",
+   "big": [
+    [
+     "PHILLIPS 118",
+     120,
+     "WHITE"
+    ],
+    [
+     "NZ 368",
+     160,
+     "YELLOW"
+    ]
+   ]
+  },
+  {
+   "vo": "For India, Bumrah took four for ninety two, and Akash Deep three for fifty three.",
+   "cap": "Bumrah 4/92, Akash Deep 3/53",
+   "big": [
+    [
+     "BUMRAH 4/92",
+     120,
+     "CYAN"
+    ],
+    [
+     "AKASH DEEP 3/53",
+     95,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "From seventy for five, to three sixty eight. Can India's batters answer? Comment below.",
+   "cap": "70/5 to 368. Can India's batters answer?",
+   "big": [
+    [
+     "70/5 TO 368",
+     130,
+     "YELLOW"
+    ],
+    [
+     "YOUR CALL?",
+     110,
+     "PINK"
+    ]
+   ]
+  }
+ ]
+}
