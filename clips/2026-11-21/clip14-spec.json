@@ -1,0 +1,119 @@
+{
+ "theme": "neon",
+ "speed": 0.84,
+ "source": "Sources: PTI, IANS, ANI (21 Nov 2026)",
+ "scenes": [
+  {
+   "vo": "One Indian opener now has Test hundreds in all four SENA countries. Just one.",
+   "cap": "One Indian opener now has Test 100s in all 4 SENA countries.",
+   "big": [
+    [
+     "ALL 4",
+     170,
+     "YELLOW"
+    ],
+    [
+     "SENA",
+     150,
+     "CYAN"
+    ]
+   ]
+  },
+  {
+   "vo": "SENA means South Africa, England, New Zealand and Australia.",
+   "cap": "SENA = South Africa, England, New Zealand, Australia",
+   "big": [
+    [
+     "SA · ENG",
+     130,
+     "WHITE"
+    ],
+    [
+     "NZ · AUS",
+     130,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "In Wellington, KL Rahul hit his thirteenth Test hundred, and became the first Indian opener to complete the set.",
+   "cap": "Wellington: KL Rahul's 13th Test 100. First Indian opener to do it.",
+   "big": [
+    [
+     "13TH",
+     160,
+     "PINK"
+    ],
+    [
+     "TEST 100",
+     120,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Only five Indians have done it at all. Azharuddin, Tendulkar, Dravid, Kohli. And now Rahul.",
+   "cap": "Only 5 Indians: Azharuddin, Tendulkar, Dravid, Kohli, Rahul",
+   "big": [
+    [
+     "5",
+     200,
+     "YELLOW"
+    ],
+    [
+     "INDIANS",
+     130,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "He's also just the third Indian, after Gavaskar and Surinder Amarnath, to score a hundred in his first Test innings in New Zealand.",
+   "cap": "3rd Indian with a 100 in his first Test innings in NZ",
+   "big": [
+    [
+     "3RD",
+     160,
+     "CYAN"
+    ],
+    [
+     "INDIAN",
+     120,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "At tea on day three, India were three forty four for two. Only twenty four behind New Zealand's three sixty eight, with eight wickets left.",
+   "cap": "Tea, Day 3: India 344/2, trailing NZ's 368 by just 24",
+   "big": [
+    [
+     "344/2",
+     170,
+     "YELLOW"
+    ],
+    [
+     "-24 RUNS",
+     120,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "Ten of his thirteen hundreds came away from home. Which one was his best?",
+   "cap": "10 of his 13 Test 100s came away from home",
+   "big": [
+    [
+     "10 OF 13",
+     140,
+     "CYAN"
+    ],
+    [
+     "AWAY",
+     130,
+     "WHITE"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "theme": "horror",
+ "speed": 1.0,
+ "source": "Original fiction",
+ "scenes": [
+  {
+   "vo": "My new flat's intercom rings every night at two fourteen. Nobody is ever downstairs.",
+   "cap": "My intercom rings every night at 2:14. Nobody is downstairs.",
+   "big": [
+    [
+     "2:14",
+     200,
+     "RED"
+    ],
+    [
+     "AM",
+     120,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "The guard showed me the lobby camera. Empty. Every night. Just the intercom light, blinking.",
+   "cap": "The lobby camera: empty. Every single night.",
+   "big": [
+    [
+     "EMPTY",
+     160,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "So I unplugged it. That night, at two fourteen, it rang anyway.",
+   "cap": "I unplugged it. At 2:14, it rang anyway.",
+   "big": [
+    [
+     "UNPLUGGED",
+     120,
+     "WHITE"
+    ],
+    [
+     "IT RANG",
+     140,
+     "RED"
+    ]
+   ]
+  },
+  {
+   "vo": "I pressed talk and asked, who's there? A voice answered. My voice. It said, it's me. Open the door. I'm locked out.",
+   "cap": "\"Who's there?\" My own voice: \"It's me. I'm locked out.\"",
+   "big": [
+    [
+     "IT'S ME",
+     150,
+     "RED"
+    ]
+   ]
+  },
+  {
+   "vo": "I laughed and turned around. Someone was asleep in my bed. Facing the wall. Wearing my clothes.",
+   "cap": "Someone was asleep in my bed. Wearing my clothes.",
+   "big": [
+    [
+     "MY BED",
+     150,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Then the intercom rang again. Two fourteen. Which one of us should open the door?",
+   "cap": "The intercom rang again. 2:14. Who opens the door?",
+   "big": [
+    [
+     "2:14",
+     200,
+     "RED"
+    ],
+    [
+     "AGAIN",
+     120,
+     "WHITE"
+    ]
+   ]
+  }
+ ]
+}

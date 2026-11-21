@@ -1,0 +1,98 @@
+{
+ "theme": "story",
+ "speed": 0.95,
+ "source": "Original fiction",
+ "scenes": [
+  {
+   "vo": "An old man in our market sold empty glass jars. The label said: patience. Ten rupees.",
+   "cap": "An old man sold empty jars labelled \"Patience\". ₹10 each.",
+   "big": [
+    [
+     "PATIENCE",
+     150,
+     "YELLOW"
+    ],
+    [
+     "₹10",
+     140,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Everyone laughed. Ten rupees for nothing? But one boy bought a jar, just to prove him wrong.",
+   "cap": "Everyone laughed. One boy bought a jar to prove him wrong.",
+   "big": [
+    [
+     "₹10 FOR",
+     120,
+     "WHITE"
+    ],
+    [
+     "NOTHING?",
+     140,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "On the lid, a rule. Drop in one coin every day you don't lose your temper. Open it after one year.",
+   "cap": "The rule: one coin for every day you don't lose your temper.",
+   "big": [
+    [
+     "1 COIN",
+     140,
+     "CYAN"
+    ],
+    [
+     "PER CALM DAY",
+     100,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "The first week, the jar stayed empty. By the third month, he was winning most days. And something else changed. People started talking to him.",
+   "cap": "Week 1: empty. Month 3: winning most days.",
+   "big": [
+    [
+     "WEEK 1",
+     110,
+     "GREY"
+    ],
+    [
+     "MONTH 3",
+     130,
+     "YELLOW"
+    ]
+   ]
+  },
+  {
+   "vo": "A year later, the jar was full. He ran back to the old man. Was the patience in the coins?",
+   "cap": "One year later, the jar was full.",
+   "big": [
+    [
+     "FULL",
+     170,
+     "CYAN"
+    ]
+   ]
+  },
+  {
+   "vo": "The old man smiled. The patience was never in the jar. I only sold you a reason to notice it. He still sells empty jars. Want one?",
+   "cap": "\"The patience was never in the jar.\" Want one?",
+   "big": [
+    [
+     "NEVER IN",
+     120,
+     "WHITE"
+    ],
+    [
+     "THE JAR",
+     140,
+     "YELLOW"
+    ]
+   ]
+  }
+ ]
+}

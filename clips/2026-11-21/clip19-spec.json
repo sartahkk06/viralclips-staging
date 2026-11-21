@@ -1,0 +1,124 @@
+{
+ "theme": "story",
+ "speed": 0.84,
+ "source": "Sources: Space.com, Starlust (Nov 2026)",
+ "scenes": [
+  {
+   "vo": "Two giant black holes, shining side by side, just nine hundred million years after the Big Bang.",
+   "cap": "Two giant black holes, side by side, 900 million years after the Big Bang",
+   "big": [
+    [
+     "900 MILLION",
+     120,
+     "YELLOW"
+    ],
+    [
+     "YEARS AFTER",
+     100,
+     "WHITE"
+    ],
+    [
+     "BIG BANG",
+     120,
+     "CYAN"
+    ]
+   ]
+  },
+  {
+   "vo": "The James Webb Space Telescope found the oldest pair of black hole powered quasars ever seen.",
+   "cap": "JWST: the oldest pair of black hole-powered quasars ever seen",
+   "big": [
+    [
+     "OLDEST",
+     150,
+     "PINK"
+    ],
+    [
+     "QUASAR PAIR",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "We see them as they were when the universe was only a thirteenth of its age.",
+   "cap": "Seen when the universe was just 1/13 of its age",
+   "big": [
+    [
+     "1/13",
+     180,
+     "CYAN"
+    ],
+    [
+     "OF ITS AGE",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "They are just eighteen thousand one hundred light years apart. About one fifth the width of our Milky Way.",
+   "cap": "Only 18,100 light-years apart: about 1/5 of the Milky Way's width",
+   "big": [
+    [
+     "18,100",
+     150,
+     "YELLOW"
+    ],
+    [
+     "LIGHT-YEARS",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "One black hole weighs one point five billion Suns. The other, four hundred million.",
+   "cap": "Masses: 1.5 billion Suns and 400 million Suns",
+   "big": [
+    [
+     "1.5 BILLION",
+     120,
+     "PINK"
+    ],
+    [
+     "400 MILLION",
+     120,
+     "CYAN"
+    ],
+    [
+     "SUNS",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "The lead author says there's no definitive theoretical explanation for how a pair like this existed so early.",
+   "cap": "Lead author: \"no definitive theoretical explanation\" yet",
+   "big": [
+    [
+     "NO",
+     150,
+     "WHITE"
+    ],
+    [
+     "EXPLANATION",
+     110,
+     "YELLOW"
+    ]
+   ]
+  },
+  {
+   "vo": "Nine hundred million years old, and already this huge. So how did they grow so fast?",
+   "cap": "Published in The Astrophysical Journal Letters, 10 Nov 2026",
+   "big": [
+    [
+     "HOW?",
+     200,
+     "CYAN"
+    ]
+   ]
+  }
+ ]
+}

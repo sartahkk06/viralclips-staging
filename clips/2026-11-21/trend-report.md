@@ -1,0 +1,21 @@
+# Trend report: 2026-11-21 (IST), production run
+
+Research: WebSearch + article fetches on 21 Nov 2026. Not readable: X trending, TikTok Creative Center, CNBC, CNN, Deadline, NZ Herald, ESPNcricinfo live, ANI direct, GSMArena, NASA Mars blog, NOIRLab. Stock sites (Pexels, Pixabay, Wikimedia, NASA Images) unreachable: original visuals only.
+
+| # | Trend | Platform / region | Why viral | Lifespan | Sources |
+|---|---|---|---|---|---|
+| 1 | KL Rahul: Test 100s in all 4 SENA countries (Wellington) | Cricket, India (X/YT/IG) | Historic first for an Indian opener; India fightback | 2-4 days | https://www.tribuneindia.com/news/cricket/kl-rahul-scores-13th-test-ton-achieves-rare-sena-record (21 Nov); https://telanganatoday.com/1st-test-rahul-s-unbeaten-century-padikkal-s-80-puts-india-a0aff6cf (21 Nov); https://www.deccanchronicle.com/sports/cricket/kl-rahul-makes-history-with-test-hundreds-in-all-sena-countries-2006493 (21 Nov) |
+| 2 | 1st Test: India 344/2 at tea Day 3, trail by 24 | Cricket, India/NZ | Match swing | 1-3 days | https://www.tribuneindia.com/news/sports/1st-test-rahuls-ton-gills-brisk-knock-power-india-to-344-2-at-tea-on-day-3-as-nz-struggle-for-breakthroughs (21 Nov) |
+| 3 | GTA VI $3.79B day-one sales (Take-Two) | Gaming, global/India | Biggest entertainment launch claim | 1-2 weeks | https://www.sec.gov/Archives/edgar/data/0000946581/000162828026075217/exhibit9918k.htm (20 Nov); https://gamerhub.co.uk/gta-6-sales-32-5-million-copies-3-79-billion/ (21 Nov) |
+| 4 | GTA VI Metascore 99, ties Ocarina of Time | Gaming, global | Best-reviewed ever tie | ~1 week | https://www.invenglobal.com/articles/28786/gta-6-ties-ocarina-of-time-for-highest-metacritic-score-ever-with-99 (18 Nov) |
+| 5 | 2026 = India's highest-grossing box office year | Film, India | Record with 45 days left | ~1 week | https://www.sacnilk.com/news/indian-box-office-creates-history-as-2026-surpasses-2025-to-become-highest-grossing-year-ever-with-45-days-still-left (16 Nov) |
+| 6 | Ramayana joins ₹1,000 cr India-gross club | Bollywood | 6th Indian film ever | 3-5 days | https://www.sacnilk.com/news/ramayana-joins-1000-crore-india-gross-club-in-14-days-becomes-only-sixth-indian-film-to-achieve-the-milestone (18 Nov) |
+| 7 | O.M Operation Mole Day 1 ₹17.70 cr net | Tamil/Telugu film | Multi-star opening | 3-5 days | https://www.sacnilk.com/quicknews/OM_Chapter_1_Udhiram_2026_Box_Office_Collection_Day_1 (21 Nov) |
+| 8 | BGMI 4.7 "Arctic Chronicles" | Mobile gaming, India | New update 18 Nov | 1-2 weeks | https://www.91mobiles.com/updates/bgmi-4-7-arrives-november-18-with-arctic-chronicles/ (undated) |
+| 9 | VCT 2027 South Asia qualifiers (JioBLAST) | Esports, India | Live now, playoffs 23-29 Nov | to 29 Nov | https://respawn.outlookindia.com/esports/esports-news/jioblast-replaces-nodwin-for-vct-2027-south-asia-qualifiers (4 Nov) |
+| 10 | Vivo X500 India launch 26 Nov | Tech, India | Flagship launch | to ~2 Dec | https://www.digit.in/news/mobile-phones/vivo-x500-pro-max-x500-pro-x500-india-launch-set-for-nov-26-check-expected-price-specs-and-more.html (12 Nov) |
+| 11 | Motorola Signature 27 / iQOO 16 India | Tech, India | Upcoming launches | to launch | https://www.digit.in/news/mobile-phones/iqoo-16-india-launch-confirmed-at-imc-2026-check-expected-price-specifications-and-more-details.html (9 Oct) |
+| 12 | JWST oldest quasar pair | Science, global | Unexplained early black holes | ~1 week | https://www.space.com/astronomy/black-holes/astronomers-stunned-after-james-webb-space-telescope-discovers-the-earliest-pair-of-black-hole-powered-quasars (12 Nov) |
+| 13 | Starship Flight 15 upper stage lands at Starbase | Space, global | First Starbase landing | fading | https://defence-industry.eu/spacexs-starship-makes-first-starbase-landing-after-22-hours-in-orbit-with-super-heavy-diverted-to-the-gulf-of-mexico/ (16 Nov) |
+| 14 | Hayabusa2 drops 1998 KY26 landing | Space, Japan/global | Mission change | ~1 week | https://www.iflscience.com/japan-cancels-mission-to-asteroid-1998-ky26-as-astrophysicist-avi-loeb-argues-it-is-human-made-anyway-85205 (17 Nov) |
+| 15 | Godzilla Minus Zero India release | Film, global/India | Record US opening | few days | https://cinemablend.com/movies/box-office/godzilla-minus-zero-ruled-weekend-box-office-monstrous-milestone (8 Nov) |

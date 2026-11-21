@@ -1,0 +1,108 @@
+{
+ "theme": "story",
+ "speed": 0.95,
+ "source": "Original fiction · Part 2",
+ "scenes": [
+  {
+   "vo": "Part two. Seat fourteen B. A row that only exists after midnight. And something tapping on my window.",
+   "cap": "Part 2. Seat 14B. Row 14. Something tapping on my window.",
+   "big": [
+    [
+     "PART 2",
+     160,
+     "YELLOW"
+    ],
+    [
+     "SEAT 14B",
+     130,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "I didn't look. I stared at my ticket. Tap. Tap. Then a voice outside said, in my own voice, let me in. That's my seat.",
+   "cap": "A voice outside, in MY voice: \"Let me in. That's my seat.\"",
+   "big": [
+    [
+     "MY OWN",
+     130,
+     "WHITE"
+    ],
+    [
+     "VOICE",
+     150,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "The man beside me whispered. Every year, one passenger in row fourteen looks outside. And they swap places with whatever is out there.",
+   "cap": "\"Every year, one passenger looks. And they swap places.\"",
+   "big": [
+    [
+     "THEY",
+     120,
+     "WHITE"
+    ],
+    [
+     "SWAP",
+     160,
+     "CYAN"
+    ]
+   ]
+  },
+  {
+   "vo": "I checked the three tickets again. One year ago. Two years ago. Three years ago. One for every year.",
+   "cap": "Their tickets: 1 year ago. 2 years ago. 3 years ago.",
+   "big": [
+    [
+     "1 YEAR",
+     110,
+     "WHITE"
+    ],
+    [
+     "2 YEARS",
+     110,
+     "WHITE"
+    ],
+    [
+     "3 YEARS",
+     110,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "So I tore my ticket in half. The tapping stopped. The lights flickered. And row fourteen was gone. I was sitting in seat thirteen D.",
+   "cap": "I tore my ticket. The tapping stopped. Row 14 was gone.",
+   "big": [
+    [
+     "ROW 14",
+     140,
+     "YELLOW"
+    ],
+    [
+     "GONE",
+     160,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "At my stop, the conductor handed me a new ticket. Seat fourteen B. Dated one year from today. See you next year?",
+   "cap": "A new ticket. Seat 14B. Dated one year from today.",
+   "big": [
+    [
+     "SEAT 14B",
+     150,
+     "YELLOW"
+    ],
+    [
+     "NEXT YEAR",
+     130,
+     "PINK"
+    ]
+   ]
+  }
+ ]
+}

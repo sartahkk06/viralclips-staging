@@ -1,0 +1,113 @@
+{
+ "theme": "neon",
+ "speed": 0.84,
+ "source": "Source: Sacnilk estimates (16 Nov 2026)",
+ "scenes": [
+  {
+   "vo": "With forty five days still left, 2026 is already India's biggest box office year ever.",
+   "cap": "2026 is already India's biggest box office year, with 45 days left",
+   "big": [
+    [
+     "2026",
+     170,
+     "YELLOW"
+    ],
+    [
+     "RECORD YEAR",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Per Sacnilk estimates, India grossed thirteen thousand seven hundred seventy five crore by November fifteenth.",
+   "cap": "₹13,775 crore gross by 15 Nov (Sacnilk estimate)",
+   "big": [
+    [
+     "₹13,775 CR",
+     120,
+     "CYAN"
+    ],
+    [
+     "BY 15 NOV",
+     100,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "All of 2025 made about thirteen thousand three fifty crore. So 2026 is already about four twenty five crore ahead.",
+   "cap": "All of 2025: ₹13,350 cr. 2026 is already ₹425 cr ahead.",
+   "big": [
+    [
+     "2025",
+     110,
+     "GREY"
+    ],
+    [
+     "₹13,350 CR",
+     110,
+     "WHITE"
+    ],
+    [
+     "+₹425 CR",
+     130,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "Hindi films took forty four percent of net collections. Telugu eighteen. Tamil fifteen.",
+   "cap": "Share of net: Hindi 44% · Telugu 18% · Tamil 15% · English 9%",
+   "big": [
+    [
+     "HINDI 44%",
+     120,
+     "YELLOW"
+    ],
+    [
+     "TELUGU 18%",
+     100,
+     "CYAN"
+    ],
+    [
+     "TAMIL 15%",
+     100,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "To reach fifteen thousand crore, India needs about twelve twenty five crore more. Roughly twenty seven crore a day.",
+   "cap": "₹15,000 cr needs ~₹1,225 cr more: about ₹27 cr a day",
+   "big": [
+    [
+     "₹15,000 CR?",
+     120,
+     "PINK"
+    ],
+    [
+     "~₹27 CR/DAY",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Will 2026 cross fifteen thousand crore? Comment your guess.",
+   "cap": "45 days. ₹1,225 crore to go. Will 2026 make it?",
+   "big": [
+    [
+     "45 DAYS",
+     140,
+     "CYAN"
+    ],
+    [
+     "YOUR GUESS?",
+     110,
+     "WHITE"
+    ]
+   ]
+  }
+ ]
+}

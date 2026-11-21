@@ -1,0 +1,93 @@
+{
+ "theme": "story",
+ "speed": 0.95,
+ "source": "Original fiction",
+ "scenes": [
+  {
+   "vo": "I went to the station's lost and found for my umbrella. The clerk handed me a box with my name on it.",
+   "cap": "Lost and found. The clerk handed me a box with MY name on it.",
+   "big": [
+    [
+     "LOST",
+     140,
+     "WHITE"
+    ],
+    [
+     "& FOUND",
+     130,
+     "CYAN"
+    ]
+   ]
+  },
+  {
+   "vo": "Inside: a key to a house I've never seen. A photo of me, standing on this platform, taken from behind.",
+   "cap": "Inside: a key to a house I've never seen. A photo of me, from behind.",
+   "big": [
+    [
+     "A KEY",
+     130,
+     "YELLOW"
+    ],
+    [
+     "A PHOTO",
+     130,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "The clerk checked his register. Handed in tomorrow, he said. By you.",
+   "cap": "The register: \"Handed in tomorrow. By you.\"",
+   "big": [
+    [
+     "TOMORROW",
+     140,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "At the bottom was a train ticket for tomorrow, six ten PM. And a note, in my own handwriting.",
+   "cap": "A ticket for tomorrow, 6:10 PM. A note in MY handwriting.",
+   "big": [
+    [
+     "6:10 PM",
+     160,
+     "YELLOW"
+    ]
+   ]
+  },
+  {
+   "vo": "It said, don't take the six ten. Whatever they tell you. Don't.",
+   "cap": "\"Don't take the 6:10. Whatever they tell you. Don't.\"",
+   "big": [
+    [
+     "DON'T",
+     160,
+     "PINK"
+    ],
+    [
+     "TAKE IT",
+     120,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Here's the problem. I already have a ticket for the six ten. I bought it this morning. What would you do?",
+   "cap": "I already bought a ticket for the 6:10. What would you do?",
+   "big": [
+    [
+     "WHAT WOULD",
+     110,
+     "WHITE"
+    ],
+    [
+     "YOU DO?",
+     150,
+     "CYAN"
+    ]
+   ]
+  }
+ ]
+}

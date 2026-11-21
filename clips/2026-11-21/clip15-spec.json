@@ -1,0 +1,119 @@
+{
+ "theme": "neon",
+ "speed": 0.84,
+ "source": "Sources: Take-Two (20 Nov 2026) · see description",
+ "scenes": [
+  {
+   "vo": "GTA 6 made three point seven nine billion dollars on day one. In a single day.",
+   "cap": "GTA 6: $3.79 billion on day one",
+   "big": [
+    [
+     "$3.79B",
+     180,
+     "YELLOW"
+    ],
+    [
+     "DAY ONE",
+     120,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Take-Two says that's the biggest entertainment launch in history, across any medium. It's a company estimate, up to the end of November nineteenth.",
+   "cap": "Take-Two: biggest entertainment launch ever (company estimate)",
+   "big": [
+    [
+     "BIGGEST",
+     130,
+     "PINK"
+    ],
+    [
+     "LAUNCH EVER",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Before launch, it had already sold thirty two point five million copies. A record across all platforms.",
+   "cap": "32.5 million copies sold BEFORE launch",
+   "big": [
+    [
+     "32.5M",
+     170,
+     "CYAN"
+    ],
+    [
+     "PRE-RELEASE",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Now compare GTA 5. Analyst Daniel Ahmad says it made about eight hundred million dollars on its first day.",
+   "cap": "GTA 5 day one: about $800 million (analyst Daniel Ahmad)",
+   "big": [
+    [
+     "GTA 5",
+     120,
+     "GREY"
+    ],
+    [
+     "$800M",
+     160,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "So GTA 6's first day is roughly four point seven times bigger.",
+   "cap": "$3.79B vs $800M: about 4.7 times bigger",
+   "big": [
+    [
+     "4.7×",
+     200,
+     "YELLOW"
+    ],
+    [
+     "BIGGER",
+     120,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Critics agree too. A Metascore of ninety nine from the first hundred and sixty four reviews, tying Ocarina of Time for the highest ever.",
+   "cap": "Metascore 99 from 164 reviews: ties the all-time record",
+   "big": [
+    [
+     "99",
+     200,
+     "CYAN"
+    ],
+    [
+     "METASCORE",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "GTA 5 alone has sold nearly two hundred thirty five million copies. Can GTA 6 beat that?",
+   "cap": "GTA 5: nearly 235 million units. Can GTA 6 beat it?",
+   "big": [
+    [
+     "235M",
+     160,
+     "PINK"
+    ],
+    [
+     "TO BEAT",
+     120,
+     "WHITE"
+    ]
+   ]
+  }
+ ]
+}
