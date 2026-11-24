@@ -1,0 +1,124 @@
+{
+ "theme": "story",
+ "speed": 0.84,
+ "source": "Sources: Deseret News, Starlust (23 Nov 2026), ESA",
+ "scenes": [
+  {
+   "vo": "Getting to Mercury takes more energy than getting to Pluto. A probe just made it.",
+   "cap": "Reaching Mercury took more energy than reaching Pluto",
+   "big": [
+    [
+     "MERCURY",
+     150,
+     "YELLOW"
+    ],
+    [
+     "HARDER THAN",
+     100,
+     "WHITE"
+    ],
+    [
+     "PLUTO",
+     150,
+     "CYAN"
+    ]
+   ]
+  },
+  {
+   "vo": "On November twenty one, BepiColombo, from Europe and Japan, entered orbit around Mercury.",
+   "cap": "21 Nov: BepiColombo (ESA + JAXA) enters Mercury orbit",
+   "big": [
+    [
+     "21 NOV",
+     150,
+     "CYAN"
+    ],
+    [
+     "IN ORBIT",
+     130,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Why so hard? Falling toward the Sun, you speed up. To get caught by tiny Mercury, you must slow down. A lot.",
+   "cap": "Falling toward the Sun speeds you up. Mercury needs you SLOW.",
+   "big": [
+    [
+     "SPEED UP",
+     120,
+     "PINK"
+    ],
+    [
+     "SLOW DOWN",
+     120,
+     "CYAN"
+    ]
+   ]
+  },
+  {
+   "vo": "So it used planets as brakes. One flyby of Earth, two of Venus, and six of Mercury itself. Over eight years.",
+   "cap": "Flybys: Earth x1, Venus x2, Mercury x6. Eight years.",
+   "big": [
+    [
+     "9 FLYBYS",
+     140,
+     "YELLOW"
+    ],
+    [
+     "8 YEARS",
+     130,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Only the second spacecraft ever to orbit Mercury. And it's two orbiters: ESA's MPO and Japan's Mio.",
+   "cap": "Only the 2nd ever to orbit Mercury. Two orbiters: MPO + Mio",
+   "big": [
+    [
+     "2ND EVER",
+     130,
+     "CYAN"
+    ],
+    [
+     "MPO + MIO",
+     120,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "One scare. The engine burn ran short, a software issue. ESA says the spacecraft is safe.",
+   "cap": "Burn cut short by a software issue. ESA: spacecraft is safe",
+   "big": [
+    [
+     "SOFTWARE ISSUE",
+     100,
+     "PINK"
+    ],
+    [
+     "SAFE",
+     150,
+     "CYAN"
+    ]
+   ]
+  },
+  {
+   "vo": "They split in December. Science starts in April twenty twenty seven. Harder than Pluto. Worth it?",
+   "cap": "They separate in December. Science starts April 2027.",
+   "big": [
+    [
+     "APRIL 2027",
+     130,
+     "YELLOW"
+    ],
+    [
+     "WORTH IT?",
+     120,
+     "WHITE"
+    ]
+   ]
+  }
+ ]
+}

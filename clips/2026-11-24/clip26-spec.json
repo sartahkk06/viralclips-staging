@@ -1,0 +1,104 @@
+{
+ "theme": "story",
+ "speed": 1.0,
+ "source": "Original fiction",
+ "scenes": [
+  {
+   "vo": "I returned the library book on Monday. On Tuesday, it was back on my desk. With a new last chapter.",
+   "cap": "Returned it Monday. Tuesday it was on my desk. New last chapter.",
+   "big": [
+    [
+     "NEW",
+     140,
+     "YELLOW"
+    ],
+    [
+     "LAST CHAPTER",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "The librarian checked. Returned, stamped, on the shelf. She said no one had borrowed it since.",
+   "cap": "Library record: returned. Shelved. Not borrowed since.",
+   "big": [
+    [
+     "NOT BORROWED",
+     110,
+     "CYAN"
+    ]
+   ]
+  },
+  {
+   "vo": "The new chapter was about a woman in a small flat, eating cold rice at midnight. Reading a library book.",
+   "cap": "The new chapter: a woman, cold rice at midnight, reading a library book",
+   "big": [
+    [
+     "MIDNIGHT",
+     140,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "That was me. That was my evening. Every detail. Even the cracked mug.",
+   "cap": "That was me. Every detail. Even the cracked mug.",
+   "big": [
+    [
+     "THAT WAS",
+     120,
+     "WHITE"
+    ],
+    [
+     "ME",
+     200,
+     "YELLOW"
+    ]
+   ]
+  },
+  {
+   "vo": "The last page was about tomorrow morning. It said, at seven ten, she will open the door for the man in the grey coat.",
+   "cap": "Last page: \"At 7:10 she will open the door for the man in the grey coat.\"",
+   "big": [
+    [
+     "7:10",
+     190,
+     "CYAN"
+    ],
+    [
+     "GREY COAT",
+     120,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "It's seven nine now. Someone just knocked. Through the peephole, I can see a grey sleeve.",
+   "cap": "7:09. A knock. Through the peephole: a grey sleeve.",
+   "big": [
+    [
+     "KNOCK",
+     160,
+     "YELLOW"
+    ]
+   ]
+  },
+  {
+   "vo": "The book doesn't say what happens next. Would you open the door? Part two, tomorrow.",
+   "cap": "Would you open the door? Part 2 tomorrow.",
+   "big": [
+    [
+     "OPEN IT?",
+     150,
+     "CYAN"
+    ],
+    [
+     "PART 1",
+     100,
+     "GREY"
+    ]
+   ]
+  }
+ ]
+}

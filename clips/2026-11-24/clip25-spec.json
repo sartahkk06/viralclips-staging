@@ -1,0 +1,93 @@
+{
+ "theme": "horror",
+ "speed": 1.0,
+ "source": "Original fiction",
+ "scenes": [
+  {
+   "vo": "Every night at eleven, my smart speaker says, goodnight, Riya. I live alone. My name isn't Riya.",
+   "cap": "Every night at 11: \"Goodnight, Riya.\" I live alone.",
+   "big": [
+    [
+     "GOODNIGHT,",
+     120,
+     "WHITE"
+    ],
+    [
+     "RIYA",
+     180,
+     "RED"
+    ]
+   ]
+  },
+  {
+   "vo": "I checked the app. No routine. No alarm. Just a voice command, every night, at eleven. From inside the flat.",
+   "cap": "No routine. A voice command. From inside the flat.",
+   "big": [
+    [
+     "INSIDE",
+     160,
+     "RED"
+    ]
+   ]
+  },
+  {
+   "vo": "I reset it. Unplugged it for a week. The first night I plugged it back in, it said, welcome back, Riya.",
+   "cap": "I reset it. Plugged it back in: \"Welcome back, Riya.\"",
+   "big": [
+    [
+     "WELCOME",
+     130,
+     "WHITE"
+    ],
+    [
+     "BACK",
+     150,
+     "RED"
+    ]
+   ]
+  },
+  {
+   "vo": "So I asked it. Who is Riya? It said, Riya is the one who lives here.",
+   "cap": "\"Who is Riya?\" \"Riya is the one who lives here.\"",
+   "big": [
+    [
+     "WHO LIVES",
+     120,
+     "WHITE"
+    ],
+    [
+     "HERE?",
+     160,
+     "RED"
+    ]
+   ]
+  },
+  {
+   "vo": "Then, who am I? It paused. Then it said, you're the guest. She's been waiting for you to leave.",
+   "cap": "\"Then who am I?\" \"You're the guest.\"",
+   "big": [
+    [
+     "THE GUEST",
+     140,
+     "RED"
+    ]
+   ]
+  },
+  {
+   "vo": "I didn't sleep. At eleven, the light on the speaker turned blue. And from the bedroom behind me, someone whispered, goodnight, Riya.",
+   "cap": "At 11, from the bedroom: \"Goodnight, Riya.\"",
+   "big": [
+    [
+     "11:00",
+     190,
+     "RED"
+    ],
+    [
+     "GOODNIGHT",
+     120,
+     "WHITE"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "theme": "horror",
+ "speed": 1.0,
+ "source": "Original fiction",
+ "scenes": [
+  {
+   "vo": "There's a man in the background of every photo I take. And he's getting closer.",
+   "cap": "A man in the background of every photo. Getting closer.",
+   "big": [
+    [
+     "CLOSER",
+     170,
+     "RED"
+    ]
+   ]
+  },
+  {
+   "vo": "First, the beach. A tiny figure near the water. I didn't notice him until I zoomed in.",
+   "cap": "Photo 1: a tiny figure, far away",
+   "big": [
+    [
+     "PHOTO 1",
+     140,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "A week later, a cafe. He was at the next table. Same shirt. Looking at the camera.",
+   "cap": "Photo 2: the next table. Same shirt.",
+   "big": [
+    [
+     "PHOTO 2",
+     140,
+     "WHITE"
+    ],
+    [
+     "NEXT TABLE",
+     100,
+     "RED"
+    ]
+   ]
+  },
+  {
+   "vo": "Yesterday, a selfie in my room. He was standing right behind my shoulder.",
+   "cap": "Yesterday's selfie: right behind my shoulder.",
+   "big": [
+    [
+     "BEHIND",
+     160,
+     "RED"
+    ],
+    [
+     "ME",
+     160,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "I turned around. Nobody. But in the selfie, he's holding up his own phone. Taking a photo of me.",
+   "cap": "In the selfie he's holding a phone. Pointed at me.",
+   "big": [
+    [
+     "HIS PHONE",
+     140,
+     "RED"
+    ]
+   ]
+  },
+  {
+   "vo": "I zoomed in on his screen. It's his photo of his room. And in the background, it's me. Getting closer.",
+   "cap": "On his screen: his room. And in the background... me.",
+   "big": [
+    [
+     "IT'S ME",
+     170,
+     "RED"
+    ],
+    [
+     "CLOSER",
+     120,
+     "WHITE"
+    ]
+   ]
+  }
+ ]
+}

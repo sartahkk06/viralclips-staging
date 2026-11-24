@@ -1,0 +1,124 @@
+{
+ "theme": "neon",
+ "speed": 0.84,
+ "source": "Source: ScienceDaily / UC Davis (22 Nov 2026)",
+ "scenes": [
+  {
+   "vo": "This spider is the size of a coin. Its genome is fifty percent bigger than yours.",
+   "cap": "Coin-sized spider. Genome ~50% bigger than a human's.",
+   "big": [
+    [
+     "+50%",
+     220,
+     "YELLOW"
+    ],
+    [
+     "DNA",
+     140,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "It's a trapdoor spider from California's coastal dunes, and scientists just published its full reference genome.",
+   "cap": "A California dune trapdoor spider: reference genome published",
+   "big": [
+    [
+     "TRAPDOOR",
+     130,
+     "CYAN"
+    ],
+    [
+     "SPIDER",
+     130,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Four point six billion DNA letters. Fifty two chromosomes. You have forty six.",
+   "cap": "4.6 billion base pairs. 52 chromosomes vs our 46.",
+   "big": [
+    [
+     "4.6 BILLION",
+     120,
+     "PINK"
+    ],
+    [
+     "52 vs 46",
+     140,
+     "CYAN"
+    ]
+   ]
+  },
+  {
+   "vo": "So is this spider more complex than you? No. About seventy seven percent of its genome is repeated sequences.",
+   "cap": "~77% of its genome is repetitive DNA",
+   "big": [
+    [
+     "77%",
+     220,
+     "YELLOW"
+    ],
+    [
+     "REPEATS",
+     130,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Repeats are like photocopies of the same pages. The book gets thicker, but the story doesn't get longer.",
+   "cap": "Repeats = photocopied pages. Thicker book, same story.",
+   "big": [
+    [
+     "COPIES",
+     140,
+     "PINK"
+    ],
+    [
+     "NOT NEW INFO",
+     100,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "That's why genome size is a terrible way to measure how complex a living thing is.",
+   "cap": "Genome size does not equal complexity",
+   "big": [
+    [
+     "SIZE",
+     140,
+     "CYAN"
+    ],
+    [
+     "NOT EQUAL",
+     110,
+     "WHITE"
+    ],
+    [
+     "COMPLEXITY",
+     110,
+     "YELLOW"
+    ]
+   ]
+  },
+  {
+   "vo": "Published by UC Davis researchers in the Journal of Heredity. A coin-sized spider, with more DNA than you.",
+   "cap": "UC Davis study, Journal of Heredity",
+   "big": [
+    [
+     "MORE DNA",
+     130,
+     "YELLOW"
+    ],
+    [
+     "THAN YOU",
+     130,
+     "WHITE"
+    ]
+   ]
+  }
+ ]
+}

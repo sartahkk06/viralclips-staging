@@ -1,0 +1,119 @@
+{
+ "theme": "neon",
+ "speed": 0.84,
+ "source": "Sources: Onmanorama, Prameya News (23 Nov 2026)",
+ "scenes": [
+  {
+   "vo": "India scored seven hundred and twenty. And still couldn't win.",
+   "cap": "India scored 720. And still couldn't win.",
+   "big": [
+    [
+     "720/9",
+     190,
+     "YELLOW"
+    ],
+    [
+     "NO WIN",
+     140,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "New Zealand made three sixty eight. So India led by three hundred and fifty two.",
+   "cap": "NZ 368 all out. India's lead: 352",
+   "big": [
+    [
+     "NZ 368",
+     130,
+     "CYAN"
+    ],
+    [
+     "LEAD 352",
+     130,
+     "YELLOW"
+    ]
+   ]
+  },
+  {
+   "vo": "Here's the catch. To win a Test, you usually have to bowl the other team out twice. Big runs only buy you time.",
+   "cap": "To win a Test you usually need to bowl them out TWICE",
+   "big": [
+    [
+     "20 WICKETS",
+     130,
+     "WHITE"
+    ],
+    [
+     "TO WIN",
+     120,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "New Zealand batted a hundred and twenty overs in their second innings, and lost only five wickets.",
+   "cap": "NZ 2nd innings: 120 overs, only 5 wickets down",
+   "big": [
+    [
+     "120 OVERS",
+     130,
+     "CYAN"
+    ],
+    [
+     "5 WICKETS",
+     120,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "When the captains shook hands, they were two thirty nine for five. Still a hundred and thirteen runs behind.",
+   "cap": "Handshake at 239/5, still 113 runs behind",
+   "big": [
+    [
+     "239/5",
+     170,
+     "YELLOW"
+    ],
+    [
+     "113 BEHIND",
+     120,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "So India's winless run in New Zealand, going back to March two thousand nine, goes on.",
+   "cap": "India's winless Test run in NZ dates back to March 2009",
+   "big": [
+    [
+     "SINCE",
+     110,
+     "WHITE"
+    ],
+    [
+     "2009",
+     190,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "Second Test, Christchurch, November twenty seven. Can India take twenty wickets this time?",
+   "cap": "2nd Test: Christchurch, from 27 Nov. 20 wickets?",
+   "big": [
+    [
+     "27 NOV",
+     140,
+     "CYAN"
+    ],
+    [
+     "20 WICKETS?",
+     120,
+     "YELLOW"
+    ]
+   ]
+  }
+ ]
+}

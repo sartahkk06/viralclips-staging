@@ -1,0 +1,114 @@
+{
+ "theme": "story",
+ "speed": 0.84,
+ "source": "Source: ScienceDaily / Univ. of Cambridge (22 Nov 2026)",
+ "scenes": [
+  {
+   "vo": "This tortoise is believed to have hatched in eighteen thirty two. He is still alive.",
+   "cap": "Believed to have hatched in 1832. Still alive.",
+   "big": [
+    [
+     "1832",
+     200,
+     "YELLOW"
+    ],
+    [
+     "STILL ALIVE",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "His name is Jonathan. He lives on the island of St Helena, and he's estimated to be one hundred and ninety four years old.",
+   "cap": "Jonathan, St Helena: an estimated 194 years old",
+   "big": [
+    [
+     "194",
+     220,
+     "CYAN"
+    ],
+    [
+     "YEARS OLD",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Scientists studied his epigenome. Think of it as the switches that decide which genes are on and off.",
+   "cap": "They studied his epigenome: the on/off switches for genes",
+   "big": [
+    [
+     "EPIGENOME",
+     130,
+     "PINK"
+    ],
+    [
+     "GENE SWITCHES",
+     90,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "They found two hundred and eighty seven distinctive genetic variants.",
+   "cap": "287 distinctive genetic variants",
+   "big": [
+    [
+     "287",
+     220,
+     "YELLOW"
+    ],
+    [
+     "VARIANTS",
+     120,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "And the gene regulators for energy production and DNA repair? Incredibly stable, after nearly two centuries.",
+   "cap": "Regulators for energy + DNA repair: \"incredibly stable\"",
+   "big": [
+    [
+     "DNA REPAIR",
+     130,
+     "CYAN"
+    ],
+    [
+     "STABLE",
+     140,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Repairing DNA damage is one of the main ways a body fights ageing. Jonathan seems to have kept that system running.",
+   "cap": "DNA repair is a key defence against ageing",
+   "big": [
+    [
+     "FIGHTS",
+     120,
+     "WHITE"
+    ],
+    [
+     "AGEING",
+     140,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "It's the first epigenome study of a giant tortoise, in Science Advances. Hatched in eighteen thirty two. What's next?",
+   "cap": "First giant-tortoise epigenome study (Science Advances)",
+   "big": [
+    [
+     "SINCE 1832",
+     130,
+     "YELLOW"
+    ]
+   ]
+  }
+ ]
+}
