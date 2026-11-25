@@ -10,7 +10,7 @@ os.makedirs(OUT, exist_ok=True)
 W, H, FPS = 1080, 1920, 30
 FB = "/usr/share/fonts/truetype/google-fonts/Poppins-Bold.ttf"
 FM = "/usr/share/fonts/truetype/google-fonts/Poppins-SemiBold.ttf"
-SAY = "/home/claude/work/hindi/say.py"
+SAY = os.path.join(os.path.dirname(os.path.abspath(__file__)), "hindi_tts.py")
 SKIN, HAIR, INK = (236, 188, 150), (40, 30, 30), (35, 25, 30)
 YEL, WHITE, RED, GREEN = (255, 205, 60), (255, 255, 255), (230, 60, 60), (70, 200, 110)
 KID_SHIRTS = [(66, 150, 240), (240, 110, 80), (110, 200, 120), (180, 120, 230)]
@@ -18,14 +18,14 @@ NAMES = ["SOMVAAR", "MANGALVAAR", "BUDHVAAR", "?"]
 
 # hi = Devanagari voiceover, cap = Hinglish caption (*word* = highlighted), sil = extra silent seconds
 SCENES = [
-    dict(k="hook", hi="सिर्फ एक प्रतिशत लोग, इस पहेली का सही जवाब देते हैं।", cap="Sirf *1%* log is paheli ka sahi jawab dete hain."),
-    dict(k="family", hi="रामू के पिताजी के, चार बेटे हैं।", cap="*Ramu* ke pitaji ke *4 bete* hain."),
-    dict(k="names", hi="पहले का नाम सोमवार, दूसरे का मंगलवार, और तीसरे का बुधवार।", cap="Pehla *Somvaar*, doosra *Mangalvaar*, teesra *Budhvaar*."),
-    dict(k="ask", hi="अब बताओ, चौथे बेटे का नाम क्या है?", cap="Ab batao, *chauthe* bete ka naam kya hai?"),
-    dict(k="timer", hi="तुम्हारे पास सिर्फ पाँच सेकंड हैं।", cap="Tumhare paas sirf *5 second* hain.", sil=4.0),
-    dict(k="wrong", hi="ज़्यादातर लोग कहते हैं, गुरुवार। लेकिन रुको!", cap="Zyaadatar log kehte hain *Guruvaar*... lekin *ruko!*"),
-    dict(k="reveal", hi="जवाब सवाल में ही है। रामू के पिताजी के चार बेटे। तो चौथा बेटा है, रामू!", cap="Jawab sawaal mein hi hai. Chautha beta hai *RAMU!*"),
-    dict(k="outro", hi="अपने किसी होशियार दोस्त को टैग करो, और ऐसी पहेलियों के लिए फॉलो करो।", cap="Kisi *hoshiyaar* dost ko tag karo. *Follow* karo!"),
+    dict(k="hook", hi="सिर्फ एक परसेंट लोग ही इस पहेली का सही जवाब दे पाते हैं।", cap="Sirf *1%* log hi is paheli ka sahi jawab de paate hain."),
+    dict(k="family", hi="रामू के पापा के चार बेटे हैं।", cap="*Ramu* ke papa ke *4 bete* hain."),
+    dict(k="names", hi="पहले बेटे का नाम है सोमवार। दूसरे का, मंगलवार। और तीसरे का, बुधवार।", cap="Pehla *Somvaar*, doosra *Mangalvaar*, teesra *Budhvaar*."),
+    dict(k="ask", hi="तो बताओ, चौथे बेटे का नाम क्या है?", cap="Toh batao, *chauthe* bete ka naam kya hai?"),
+    dict(k="timer", hi="सोचो, तुम्हारे पास बस पाँच सेकंड हैं।", cap="Socho, tumhare paas bas *5 second* hain.", sil=4.0),
+    dict(k="wrong", hi="ज़्यादातर लोग बोलते हैं, गुरुवार। पर रुको!", cap="Zyaadatar log bolte hain *Guruvaar*... par *ruko!*"),
+    dict(k="reveal", hi="जवाब तो सवाल में ही छुपा है। रामू के पापा के चार बेटे हैं, तो चौथा बेटा है, खुद रामू!", cap="Jawab sawaal mein hi chhupa hai. Chautha beta hai *khud RAMU!*"),
+    dict(k="outro", hi="अपने सबसे होशियार दोस्त को टैग करो। और ऐसी ही पहेलियों के लिए, फॉलो कर लो।", cap="Sabse *hoshiyaar* dost ko tag karo. *Follow* kar lo!"),
 ]
 
 
@@ -34,9 +34,7 @@ def F(s, m=False):
 
 
 def tts(text, path):
-    raw = path + ".raw.wav"
-    subprocess.run(["python3", SAY, text, raw], check=True, capture_output=True)
-    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", raw, "-af", "atempo=1.08", "-ar", "22050", path], check=True)
+    subprocess.run(["python3", SAY, "male", text, os.path.abspath(path), "1.05"], check=True, capture_output=True, cwd="/home/claude/work/hindi")
     out = subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", path],
                          capture_output=True, text=True).stdout
     return float(out)
@@ -158,7 +156,7 @@ def frame(k, lt, dur, t, idx):
         ctext(d, 450, "ONLY 1% GET IT", F(80), WHITE)
         person(d, W / 2, 1450, 1.6, (40, 110, 200), t, adult=True, wave=True)
     elif k == "family":
-        person(d, W / 2, 1060, 1.25, (40, 110, 200), t, adult=True, label="RAMU KE PITAJI")
+        person(d, W / 2, 1060, 1.25, (40, 110, 200), t, adult=True, label="RAMU KE PAPA")
         for i, x in enumerate(kids_x):
             if lt > 0.4 + i * 0.25:
                 person(d, x, 1500, 0.8, KID_SHIRTS[i], t)
