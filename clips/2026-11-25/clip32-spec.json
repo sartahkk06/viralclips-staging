@@ -1,0 +1,124 @@
+{
+ "theme": "neon",
+ "speed": 0.84,
+ "source": "Sources: ANS Nuclear Newswire, Daily Galaxy (24 Nov 2026)",
+ "scenes": [
+  {
+   "vo": "NASA wants a nuclear reactor on the Moon. Here's why solar isn't enough.",
+   "cap": "NASA wants a nuclear reactor on the Moon. Why not solar?",
+   "big": [
+    [
+     "NUCLEAR",
+     140,
+     "YELLOW"
+    ],
+    [
+     "ON THE MOON",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "It's called Lunar Reactor One. Target power: twenty kilowatts, electric.",
+   "cap": "Lunar Reactor-1 (LR-1): 20 kWe target",
+   "big": [
+    [
+     "LR-1",
+     170,
+     "CYAN"
+    ],
+    [
+     "COUNTER:20:",
+     150,
+     "YELLOW"
+    ],
+    [
+     "KILOWATTS",
+     100,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "The problem is night. At the lunar south pole, it must survive at least fourteen point seven five days of continuous darkness. Solar panels get nothing.",
+   "cap": "Must survive at least 14.75 days of continuous darkness",
+   "big": [
+    [
+     "14.75 DAYS",
+     130,
+     "PINK"
+    ],
+    [
+     "OF DARKNESS",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Batteries for two weeks of night get huge and heavy. A reactor runs the same, day or night.",
+   "cap": "2 weeks of batteries = heavy. A reactor runs day or night.",
+   "big": [
+    [
+     "DAY",
+     130,
+     "YELLOW"
+    ],
+    [
+     "OR NIGHT",
+     130,
+     "CYAN"
+    ]
+   ]
+  },
+  {
+   "vo": "Twenty kilowatts is roughly what sixteen average American homes use. Enough for a small base.",
+   "cap": "20 kW is roughly 16 average American homes",
+   "big": [
+    [
+     "≈ 16",
+     160,
+     "YELLOW"
+    ],
+    [
+     "HOMES",
+     130,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Rules: run five years with no maintenance, keep working after a single failure, and keep crew radiation low a kilometre away.",
+   "cap": "5 years, no maintenance. Works after a single failure.",
+   "big": [
+    [
+     "5 YEARS",
+     140,
+     "CYAN"
+    ],
+    [
+     "NO REPAIRS",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Target: launch ready by December twenty thirty. Proposals are due this December twenty first. Would you live next to it?",
+   "cap": "Launch-ready target: Dec 2030. Proposals due 21 Dec 2026.",
+   "big": [
+    [
+     "DEC 2030",
+     150,
+     "YELLOW"
+    ],
+    [
+     "LAUNCH READY",
+     100,
+     "WHITE"
+    ]
+   ]
+  }
+ ]
+}

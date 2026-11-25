@@ -1,0 +1,119 @@
+{
+ "theme": "horror",
+ "speed": 1.0,
+ "source": "Original fiction",
+ "scenes": [
+  {
+   "vo": "Every morning, there's one more pair of shoes outside my door.",
+   "cap": "Every morning: one more pair of shoes outside my door",
+   "big": [
+    [
+     "ONE MORE",
+     130,
+     "WHITE"
+    ],
+    [
+     "PAIR",
+     160,
+     "RED"
+    ]
+   ]
+  },
+  {
+   "vo": "Monday, one pair of slippers. Not mine. I left them for the owner.",
+   "cap": "Monday: one pair of slippers. Not mine.",
+   "big": [
+    [
+     "MONDAY",
+     140,
+     "WHITE"
+    ],
+    [
+     "1 PAIR",
+     130,
+     "GREY"
+    ]
+   ]
+  },
+  {
+   "vo": "Tuesday, two pairs. Wednesday, three. Nobody in the building has claimed them.",
+   "cap": "Tuesday: 2. Wednesday: 3. Nobody claims them.",
+   "big": [
+    [
+     "2",
+     200,
+     "WHITE"
+    ],
+    [
+     "3",
+     200,
+     "RED"
+    ]
+   ]
+  },
+  {
+   "vo": "By Sunday there were seven. All my size. All a little muddy, like someone had been walking around in them.",
+   "cap": "Sunday: 7 pairs. All my size. All slightly muddy.",
+   "big": [
+    [
+     "7 PAIRS",
+     150,
+     "RED"
+    ],
+    [
+     "MY SIZE",
+     120,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Last night I lined them up to count. Seven pairs outside. But my own shoes, by the bed, were gone.",
+   "cap": "Last night I counted. Seven outside. My own shoes: gone.",
+   "big": [
+    [
+     "MINE",
+     150,
+     "WHITE"
+    ],
+    [
+     "GONE",
+     160,
+     "RED"
+    ]
+   ]
+  },
+  {
+   "vo": "Now it's three in the morning. I'm barefoot. And in the kitchen, I can hear footsteps. In shoes.",
+   "cap": "3 AM. I'm barefoot. In the kitchen: footsteps. In shoes.",
+   "big": [
+    [
+     "3 AM",
+     170,
+     "WHITE"
+    ],
+    [
+     "FOOTSTEPS",
+     110,
+     "RED"
+    ]
+   ]
+  },
+  {
+   "vo": "Tomorrow morning, I think there'll be one more pair outside my door.",
+   "cap": "Tomorrow: one more pair outside my door?",
+   "big": [
+    [
+     "ONE",
+     160,
+     "WHITE"
+    ],
+    [
+     "MORE",
+     160,
+     "RED"
+    ]
+   ]
+  }
+ ]
+}

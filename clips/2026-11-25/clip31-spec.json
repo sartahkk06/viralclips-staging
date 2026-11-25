@@ -1,0 +1,119 @@
+{
+ "theme": "story",
+ "speed": 0.95,
+ "source": "Original fiction",
+ "scenes": [
+  {
+   "vo": "For thirty days, a stranger paid for my chai. On day thirty, I followed him.",
+   "cap": "30 days, a stranger paid for my chai. Day 30, I followed him.",
+   "big": [
+    [
+     "30 DAYS",
+     140,
+     "YELLOW"
+    ],
+    [
+     "FREE CHAI",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Every morning, same stall. I'd reach for my wallet, and the chaiwala would say, already paid. By the man in the blue cap.",
+   "cap": "\"Already paid.\" By the man in the blue cap.",
+   "big": [
+    [
+     "ALREADY",
+     120,
+     "WHITE"
+    ],
+    [
+     "PAID",
+     160,
+     "CYAN"
+    ]
+   ]
+  },
+  {
+   "vo": "I thought he wanted something. A favour. A loan. So I finally caught up with him at the bus stop.",
+   "cap": "What did he want? I caught him at the bus stop.",
+   "big": [
+    [
+     "WHAT DOES",
+     110,
+     "WHITE"
+    ],
+    [
+     "HE WANT?",
+     120,
+     "YELLOW"
+    ]
+   ]
+  },
+  {
+   "vo": "He laughed. Twenty years ago, on the worst morning of his life, a stranger bought him tea before a job interview.",
+   "cap": "20 years ago, a stranger bought HIM tea before a job interview",
+   "big": [
+    [
+     "20 YEARS",
+     140,
+     "CYAN"
+    ],
+    [
+     "AGO",
+     120,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "He got the job. He never found that stranger. So every month, he picks someone, and pays for their chai.",
+   "cap": "He got the job. Never found the stranger. So every month he picks someone.",
+   "big": [
+    [
+     "HE GOT",
+     110,
+     "WHITE"
+    ],
+    [
+     "THE JOB",
+     130,
+     "YELLOW"
+    ]
+   ]
+  },
+  {
+   "vo": "I asked how to pay him back. He said, don't. Just pick someone tomorrow.",
+   "cap": "\"How do I pay you back?\" \"Don't. Pick someone tomorrow.\"",
+   "big": [
+    [
+     "PICK",
+     150,
+     "CYAN"
+    ],
+    [
+     "SOMEONE",
+     120,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "So tomorrow, somewhere, a stranger's chai is on me. Maybe it's yours.",
+   "cap": "Tomorrow, a stranger's chai is on me. Maybe yours.",
+   "big": [
+    [
+     "MAYBE",
+     130,
+     "WHITE"
+    ],
+    [
+     "YOURS",
+     150,
+     "YELLOW"
+    ]
+   ]
+  }
+ ]
+}

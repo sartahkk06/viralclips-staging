@@ -1,0 +1,114 @@
+{
+ "theme": "story",
+ "speed": 1.0,
+ "source": "Original fiction",
+ "scenes": [
+  {
+   "vo": "Part two. It's seven nine. There's a grey sleeve outside my door, and a library book that knows my morning.",
+   "cap": "Part 2. 7:09. A grey sleeve at my door. A book that knows my morning.",
+   "big": [
+    [
+     "PART 2",
+     130,
+     "YELLOW"
+    ],
+    [
+     "7:09",
+     170,
+     "CYAN"
+    ]
+   ]
+  },
+  {
+   "vo": "I didn't open the door. I sat on the floor and turned to the last page again.",
+   "cap": "I didn't open the door. I turned to the last page again.",
+   "big": [
+    [
+     "DON'T",
+     150,
+     "WHITE"
+    ],
+    [
+     "OPEN IT",
+     120,
+     "YELLOW"
+    ]
+   ]
+  },
+  {
+   "vo": "The words had changed. It now said: she did not open the door, so he left something for her.",
+   "cap": "The page had changed: \"She did not open the door. So he left something for her.\"",
+   "big": [
+    [
+     "THE WORDS",
+     110,
+     "WHITE"
+    ],
+    [
+     "CHANGED",
+     140,
+     "CYAN"
+    ]
+   ]
+  },
+  {
+   "vo": "At seven ten, the knocking stopped. Footsteps went down the stairs. Then nothing.",
+   "cap": "7:10. The knocking stopped. Footsteps. Then nothing.",
+   "big": [
+    [
+     "7:10",
+     190,
+     "YELLOW"
+    ]
+   ]
+  },
+  {
+   "vo": "On my doormat was an envelope. Inside, a handwritten note. I wrote this book forty years ago. Nobody ever finished it. You did.",
+   "cap": "On the mat, a note: \"I wrote this book 40 years ago. Nobody finished it. You did.\"",
+   "big": [
+    [
+     "A NOTE",
+     140,
+     "WHITE"
+    ],
+    [
+     "40 YEARS",
+     120,
+     "CYAN"
+    ]
+   ]
+  },
+  {
+   "vo": "The last line said: please, write the ending. Under it, the pages were blank.",
+   "cap": "\"Please write the ending.\" The rest of the pages: blank.",
+   "big": [
+    [
+     "WRITE THE",
+     110,
+     "WHITE"
+    ],
+    [
+     "ENDING",
+     150,
+     "YELLOW"
+    ]
+   ]
+  },
+  {
+   "vo": "So I'm writing it now. About a woman at midnight, reading a library book. Tomorrow, it might be on your desk.",
+   "cap": "So I'm writing it now. Tomorrow, it might be on YOUR desk.",
+   "big": [
+    [
+     "YOUR",
+     150,
+     "CYAN"
+    ],
+    [
+     "DESK",
+     150,
+     "WHITE"
+    ]
+   ]
+  }
+ ]
+}

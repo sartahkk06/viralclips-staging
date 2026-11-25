@@ -1,0 +1,114 @@
+{
+ "theme": "story",
+ "speed": 0.84,
+ "source": "Sources: MIT News (19 Nov 2026), ScienceDaily (24 Nov 2026)",
+ "scenes": [
+  {
+   "vo": "A black hole the size of an atom could hide inside a star. And blow it up from inside.",
+   "cap": "An atom-sized black hole could hide inside a star",
+   "big": [
+    [
+     "ATOM-SIZED",
+     120,
+     "CYAN"
+    ],
+    [
+     "BLACK HOLE",
+     120,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "This is a new theory from MIT, published in the Astrophysical Journal. Nobody has seen one yet.",
+   "cap": "New MIT theory (Astrophysical Journal). Not observed yet.",
+   "big": [
+    [
+     "THEORY",
+     150,
+     "YELLOW"
+    ],
+    [
+     "NOT SEEN YET",
+     100,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "These would be primordial black holes, from the early universe. About a millionth of Earth's mass, squeezed to the size of an atom.",
+   "cap": "Primordial black hole: about a millionth of Earth's mass",
+   "big": [
+    [
+     "1 / 1,000,000",
+     110,
+     "CYAN"
+    ],
+    [
+     "EARTH'S MASS",
+     100,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "If a star captures one, it sinks to the core and eats slowly. Over several million years, about one percent of the star.",
+   "cap": "Over several million years, it eats about 1% of the star",
+   "big": [
+    [
+     "1%",
+     200,
+     "YELLOW"
+    ],
+    [
+     "OF THE STAR",
+     100,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Then jets form. Within a few dozen seconds, the star explodes.",
+   "cap": "Jets form. Within a few dozen seconds: the star explodes.",
+   "big": [
+    [
+     "SECONDS",
+     150,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "The clue would be a flash of X rays and gamma rays, then ultraviolet, visible light and radio. The authors say other events can look similar, so it's a search, not proof.",
+   "cap": "Predicted clue: X/gamma flash, then UV, optical, radio",
+   "big": [
+    [
+     "X-RAY",
+     130,
+     "CYAN"
+    ],
+    [
+     "FLASH",
+     140,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "If telescopes catch that pattern, we may finally find the smallest black holes in the universe.",
+   "cap": "Catch that pattern = maybe the smallest black holes ever",
+   "big": [
+    [
+     "SMALLEST",
+     130,
+     "YELLOW"
+    ],
+    [
+     "EVER?",
+     150,
+     "WHITE"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "theme": "neon",
+ "speed": 0.84,
+ "source": "Sources: The Week (23 Nov 2026), Free Press Journal (24 Nov 2026)",
+ "scenes": [
+  {
+   "vo": "A Bengali disco song from the early eighties just landed in GTA Six.",
+   "cap": "An early-80s Bengali disco song is in GTA VI",
+   "big": [
+    [
+     "BENGALI",
+     130,
+     "YELLOW"
+    ],
+    [
+     "DISCO",
+     150,
+     "PINK"
+    ],
+    [
+     "IN GTA VI",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "The song is Aaj Shanibar, sung by Rupa Biswas. It plays on the game's Worldwide FM station.",
+   "cap": "\"Aaj Shanibar\" by Rupa Biswas, on the in-game Worldwide FM",
+   "big": [
+    [
+     "AAJ",
+     150,
+     "CYAN"
+    ],
+    [
+     "SHANIBAR",
+     130,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Here's the twist. When it first came out, the album failed commercially. Almost nobody heard it.",
+   "cap": "When it first came out, the album failed commercially",
+   "big": [
+    [
+     "IT",
+     150,
+     "WHITE"
+    ],
+    [
+     "FLOPPED",
+     140,
+     "PINK"
+    ]
+   ]
+  },
+  {
+   "vo": "Decades later, a journalist tracked the singer down, and the Chicago label Numero Group reissued it in twenty nineteen.",
+   "cap": "Decades later: reissued by Numero Group (Chicago) in 2019",
+   "big": [
+    [
+     "REISSUED",
+     130,
+     "CYAN"
+    ],
+    [
+     "2019",
+     150,
+     "YELLOW"
+    ]
+   ]
+  },
+  {
+   "vo": "Now GTA Six has put it in front of gamers all over the world.",
+   "cap": "Now GTA VI puts it in front of gamers worldwide",
+   "big": [
+    [
+     "WORLDWIDE",
+     130,
+     "YELLOW"
+    ],
+    [
+     "AUDIENCE",
+     120,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Lesson? A flop is sometimes just a song that hasn't found its audience yet. This one took over forty years.",
+   "cap": "A flop is a song that hasn't found its audience. Yet.",
+   "big": [
+    [
+     "40 YEARS",
+     150,
+     "PINK"
+    ],
+    [
+     "LATE HIT",
+     120,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Which old Indian song should be in GTA next? Comment below.",
+   "cap": "Which old Indian song should be in GTA next?",
+   "big": [
+    [
+     "YOUR",
+     130,
+     "WHITE"
+    ],
+    [
+     "PICK?",
+     150,
+     "CYAN"
+    ]
+   ]
+  }
+ ]
+}
