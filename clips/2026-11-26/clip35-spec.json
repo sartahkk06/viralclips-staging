@@ -1,0 +1,119 @@
+{
+ "theme": "neon",
+ "speed": 0.84,
+ "source": "Source: Sacnilk trade estimates (25 Nov 2026)",
+ "scenes": [
+  {
+   "vo": "This film opened with just ten lakh rupees. It ended above four hundred and fifty crore. How?",
+   "cap": "Opened with ₹10 lakh. Ended above ₹450 crore. How?",
+   "big": [
+    [
+     "₹10 LAKH",
+     150,
+     "YELLOW"
+    ],
+    [
+     "DAY ONE",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Hanuman Ansh released on August seventh. Its entire first week in India: about one crore net.",
+   "cap": "Hanuman Ansh, released 7 Aug 2026. Week 1 India net: ₹1.08 cr",
+   "big": [
+    [
+     "WEEK 1",
+     130,
+     "CYAN"
+    ],
+    [
+     "₹1.08 CR",
+     150,
+     "YELLOW"
+    ]
+   ]
+  },
+  {
+   "vo": "By week two, it was down to just twenty nine shows across India. Most films die right here.",
+   "cap": "Start of week 2: just 29 shows across India",
+   "big": [
+    [
+     "COUNTER:29:",
+     190,
+     "PINK"
+    ],
+    [
+     "SHOWS",
+     120,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Then word of mouth took over. Week three, ten crore. Week four, sixty one crore. Week five, ninety crore.",
+   "cap": "Week 3: ₹10.4 cr · Week 4: ₹61 cr · Week 5: ₹90.25 cr",
+   "big": [
+    [
+     "WEEK 5",
+     130,
+     "CYAN"
+    ],
+    [
+     "₹90.25 CR",
+     150,
+     "YELLOW"
+    ]
+   ]
+  },
+  {
+   "vo": "Week five alone was over eighty times week one. Less than half a percent of its total came in the first two weeks.",
+   "cap": "Week 5 = 80x+ week 1. Under 0.5% came in the first 2 weeks",
+   "big": [
+    [
+     "80x",
+     200,
+     "PINK"
+    ],
+    [
+     "WEEK ONE",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Sacnilk's estimate: three hundred forty three crore net in India, and four hundred fifty three crore gross worldwide.",
+   "cap": "Sacnilk estimate: ₹343 cr India net · ₹453 cr worldwide gross",
+   "big": [
+    [
+     "₹453 CR",
+     160,
+     "YELLOW"
+    ],
+    [
+     "WORLDWIDE",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Most films are judged on Friday. This one won in week four. Would you judge a film by day one? Ten lakh.",
+   "cap": "Most films are judged on day one. Would you?",
+   "big": [
+    [
+     "DON'T JUDGE",
+     120,
+     "CYAN"
+    ],
+    [
+     "DAY ONE",
+     140,
+     "PINK"
+    ]
+   ]
+  }
+ ]
+}

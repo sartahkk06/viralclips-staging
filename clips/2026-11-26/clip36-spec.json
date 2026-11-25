@@ -1,0 +1,119 @@
+{
+ "theme": "story",
+ "speed": 0.84,
+ "source": "Source: Univ. of Bath, PLOS Biology (Nov 2026)",
+ "scenes": [
+  {
+   "vo": "Since nineteen seventy two, a popular idea said your most important genes were protected from mutation. A new study says no.",
+   "cap": "Since 1972: 'important genes mutate less.' A new study says no.",
+   "big": [
+    [
+     "1972",
+     190,
+     "YELLOW"
+    ],
+    [
+     "THEORY",
+     120,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "The idea: genes a cell can't live without mutate less. Like keeping your passport in a safe.",
+   "cap": "The idea: essential genes get fewer mutations, like a passport in a safe",
+   "big": [
+    [
+     "PROTECTED",
+     130,
+     "CYAN"
+    ],
+    [
+     "GENES?",
+     140,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "The University of Bath tested it with the largest collection of spontaneous mutations so far.",
+   "cap": "University of Bath: largest collection of spontaneous mutations so far",
+   "big": [
+    [
+     "LARGEST",
+     140,
+     "YELLOW"
+    ],
+    [
+     "MUTATION SET",
+     110,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Two species. E. coli bacteria, and baker's yeast.",
+   "cap": "Tested in E. coli and baker's yeast",
+   "big": [
+    [
+     "E. COLI",
+     140,
+     "CYAN"
+    ],
+    [
+     "+ YEAST",
+     140,
+     "YELLOW"
+    ]
+   ]
+  },
+  {
+   "vo": "Result: essential genes did not mutate any less. Not in either species.",
+   "cap": "Essential genes did NOT mutate less in either species",
+   "big": [
+    [
+     "NO",
+     220,
+     "PINK"
+    ],
+    [
+     "PROTECTION",
+     120,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Why did older studies see protection? Harmful mutations in vital genes kill the cell before they're counted. Ghost mutations.",
+   "cap": "Harmful mutations get removed before they're counted: 'ghost mutations'",
+   "big": [
+    [
+     "GHOST",
+     160,
+     "CYAN"
+    ],
+    [
+     "MUTATIONS",
+     120,
+     "WHITE"
+    ]
+   ]
+  },
+  {
+   "vo": "Caveat: only two microbes so far. Mutation is random, selection is not. So, are your genes protected? Not the way we thought since nineteen seventy two.",
+   "cap": "Caveat: 2 microbes only. Mutation is random, selection is not.",
+   "big": [
+    [
+     "RANDOM",
+     140,
+     "YELLOW"
+    ],
+    [
+     "VS SELECTION",
+     110,
+     "WHITE"
+    ]
+   ]
+  }
+ ]
+}
