@@ -24,3 +24,14 @@ Not picked:
 | Pending clip07 (vivo X500 confirmed vs leaked) | retired: launch is today, clip is stale |
 | Pending clip17 (2026 box office to 15 Nov) | retired: figures 10+ days old, stale |
 | Pending clip19 (JWST quasar pair) | retired: source 12 Nov, stale (already judged stale on 25 Nov) |
+
+## Added in the 09:23 IST production run (26 Nov)
+Pipeline check: 2 Unlisted waiting (clip32, clip34) + 7 upload-pending (clip20, 24, 27, 28, 31, 35, 36) = 9, so only 1 new clip fits the 10-clip cap. YouTube uploads are throttled until the quota reset (~13:30 IST), and the backlog already exceeds one day's upload quota, so no more clips were made.
+
+### Picked: clip37, suspense/mystery story (rank 3)
+- Hook (0-2s): "I found a key that opens every lock. Except my own front door."
+- Format: 7 beats, story theme (night sky, different from the red horror look), speed 0.95, ~52s.
+- Outline: key on platform 4 with "return if found" tag → opens cycle lock, trunk, grandfather's 40-year-locked cupboard → inside, a photo of me today holding the key, dated 1985 → key won't open my door, footsteps inside → old man with my face: "You're late. I've waited forty years for that key." → now I'm the one waiting on platform 4 (loops back to the key).
+- Title: I found a key that opens EVERY lock. Except my own door… #Shorts
+- Hashtags: #suspense #mysterystory #shortstory #storytime #twist #Shorts
+- Virality 7/10: clear impossible-object hook, time-loop twist, comment prompt; no gore.

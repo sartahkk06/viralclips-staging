@@ -1,0 +1,28 @@
+{
+ "theme": "story",
+ "speed": 0.95,
+ "source": "Original fiction",
+ "scenes": [
+  {"vo": "I found a key that opens every lock. Every single one. Except my own front door.",
+   "cap": "A key that opens every lock. Except my own door.",
+   "big": [["EVERY", 150, "YELLOW"], ["LOCK", 150, "WHITE"]]},
+  {"vo": "It was lying on platform four. Old brass. A paper tag tied to it said: return if found.",
+   "cap": "Platform 4. Old brass. Tag: RETURN IF FOUND.",
+   "big": [["PLATFORM 4", 130, "CYAN"], ["RETURN IF FOUND", 80, "GREY"]]},
+  {"vo": "My cycle lock. Click. My old school trunk. Click. My grandfather's cupboard, locked for forty years. Click.",
+   "cap": "Cycle lock. Trunk. A cupboard locked for 40 years. Click.",
+   "big": [["CLICK", 120, "WHITE"], ["CLICK", 120, "WHITE"], ["CLICK", 120, "YELLOW"]]},
+  {"vo": "Inside the cupboard was one photo. Me. Today's clothes. Standing on platform four, holding this key. The date on the back? Nineteen eighty five.",
+   "cap": "One photo: me, today, on platform 4. Dated 1985.",
+   "big": [["1985", 200, "YELLOW"]]},
+  {"vo": "I ran home. The key wouldn't turn in my door. Then I heard footsteps inside. And the door opened.",
+   "cap": "The key won't turn. Footsteps inside. The door opens.",
+   "big": [["FOOTSTEPS", 120, "WHITE"], ["INSIDE", 120, "PINK"]]},
+  {"vo": "An old man with my face smiled and said: you're late. I've waited forty years for that key.",
+   "cap": "An old man with MY face: \"You're late.\"",
+   "big": [["YOU'RE", 140, "WHITE"], ["LATE", 160, "PINK"]]},
+  {"vo": "He took the key and shut the door. So now I'm the one waiting on platform four. For someone to find a key.",
+   "cap": "Now I wait on platform 4. For someone to find a key.",
+   "big": [["PLATFORM 4", 130, "CYAN"], ["WAITING", 110, "WHITE"]]}
+ ]
+}
