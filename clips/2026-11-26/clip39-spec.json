@@ -1,0 +1,11 @@
+{"scenes":[
+{"hi":"आज का जोक, सुनो ध्यान से!","cap":"Aaj ka *joke*... suno dhyaan se!","v":{"type":"host","badge":"JOKE","face":"laugh","wave":true}},
+{"hi":"एक आदमी डॉक्टर के पास गया।","cap":"Ek aadmi *doctor* ke paas gaya.","v":{"type":"chars","people":[{"role":"man","shirt":"green","face":"sad"},{"role":"doctor","shirt":"teal"}]}},
+{"hi":"डॉक्टर साहब, मुझे रात को नींद नहीं आती।","cap":"\"Doctor sahab, mujhe raat ko *neend nahi* aati.\"","v":{"type":"chars","people":[{"role":"man","shirt":"green","face":"sad","say":"NEEND NAHI AATI!"},{"role":"doctor","shirt":"teal"}]}},
+{"hi":"अच्छा, रात को क्या करते हो?","cap":"\"Achha... raat ko *kya karte* ho?\"","v":{"type":"chars","people":[{"role":"man","shirt":"green","face":"sad"},{"role":"doctor","shirt":"teal","say":"RAAT KO KYA KARTE HO?"}]}},
+{"hi":"कुछ नहीं, बस फोन पर एक छोटी सी वीडियो देखता हूँ।","cap":"\"Kuch nahi, bas phone pe ek *chhoti si video*...\"","v":{"type":"chars","people":[{"role":"man","shirt":"green","face":"smile","say":"BAS EK CHHOTI VIDEO..."},{"role":"doctor","shirt":"teal"}]}},
+{"hi":"कितनी देर?","cap":"\"*Kitni der?*\"","v":{"type":"chars","people":[{"role":"man","shirt":"green"},{"role":"doctor","shirt":"teal","face":"o","say":"KITNI DER?"}]}},
+{"hi":"बस, सुबह चार बजे तक!","cap":"\"Bas... *subah 4 baje* tak!\"","v":{"type":"chars","people":[{"role":"man","shirt":"green","face":"laugh","say":"SUBAH 4 BAJE TAK!"},{"role":"doctor","shirt":"teal","face":"o"}]}},
+{"hi":"तो भाई, तुम्हें दवाई की नहीं, चार्जर छुपाने की ज़रूरत है!","cap":"\"Toh bhai, *dawai* ki nahi... *charger chhupane* ki zaroorat hai!\"","v":{"type":"chars","people":[{"role":"man","shirt":"green","face":"o"},{"role":"doctor","shirt":"teal","face":"laugh","say":"CHARGER CHHUPAO!"}]}},
+{"hi":"हँसी आई? उस दोस्त को भेजो, जो रात भर फोन चलाता है!","cap":"Hasi aayi? Us *dost* ko bhejo jo raat bhar phone chalata hai!","v":{"type":"host","face":"laugh","wave":true,"say":"SHARE KARO!"}}
+]}

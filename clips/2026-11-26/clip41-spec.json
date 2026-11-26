@@ -1,0 +1,9 @@
+{"scenes":[
+{"hi":"आसमान नीला क्यों होता है? बहुत लोग कहते हैं, समुद्र की वजह से। पर ये सच नहीं है।","cap":"Aasmaan *neela* kyun? Log kehte hain *samudra* ki wajah se... par ye sach nahi.","head":"AASMAAN NEELA KYUN?","v":{"type":"chars","people":[{"role":"man","shirt":"orange","face":"o","say":"SAMUDRA KI WAJAH SE?"}]}},
+{"hi":"सूरज की सफेद रोशनी में, असल में, सारे रंग मिले होते हैं।","cap":"Suraj ki *safed roshni* mein asal mein *saare rang* hote hain.","head":"SAFED ROSHNI","sub":"= SAARE RANG","v":{"type":"icon","name":"star"}},
+{"hi":"जब ये रोशनी हवा से टकराती है, तो हवा के छोटे छोटे कण, नीले रंग को सबसे ज़्यादा बिखेरते हैं।","cap":"Hawa ke *chhote kan* neele rang ko *sabse zyaada* bikherte hain.","head":"HAWA KE KAN","v":{"type":"list","items":["LAAL: KAM BIKHARTA","NEELA: SABSE ZYAADA"],"icons":["cross","check"]}},
+{"hi":"क्योंकि नीली रोशनी की लहरें, छोटी होती हैं।","cap":"Kyunki *neeli roshni* ki lehrein *chhoti* hoti hain.","head":"CHHOTI LEHREIN","v":{"type":"icon","name":"water","text":"NEELA = CHHOTI WAVES"}},
+{"hi":"ये बिखरी हुई नीली रोशनी, हर दिशा से हमारी आँखों तक आती है। इसलिए पूरा आसमान नीला दिखता है।","cap":"Bikhri neeli roshni *har disha* se aati hai. Isliye aasmaan *neela* dikhta hai!","v":{"type":"host","wave":true,"say":"ISLIYE NEELA!"}},
+{"hi":"और शाम को? तब रोशनी ज़्यादा हवा से गुज़रती है। नीला रास्ते में ही बिखर जाता है, और लाल, नारंगी रंग हम तक पहुँचते हैं।","cap":"Shaam ko roshni *zyaada hawa* se guzarti hai. Neela bikhar jata hai, *laal-naarangi* bachta hai.","head":"SHAAM KO LAAL KYUN?","v":{"type":"list","items":["ZYAADA HAWA","NEELA BIKHAR GAYA","LAAL-NAARANGI BACHA"],"icons":["clock","cross","check"]}},
+{"hi":"नई बात पता चली? ऐसी रोचक बातों के लिए फॉलो करो।","cap":"Nayi baat pata chali? *Follow* karo!","v":{"type":"host","wave":true,"say":"FOLLOW KARO!"}}
+]}

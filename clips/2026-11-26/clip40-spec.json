@@ -1,0 +1,9 @@
+{"scenes":[
+{"hi":"आपके फोन की बैटरी जल्दी खत्म हो जाती है? ये चार सेटिंग्स बदलो।","cap":"Phone ki *battery* jaldi khatam? Ye *4 settings* badlo.","head":"BATTERY TIPS","v":{"type":"icon","name":"battery","text":"4 SETTINGS"}},
+{"hi":"पहली, ब्राइटनेस कम करो, या ऑटो ब्राइटनेस चालू करो।","cap":"Pehli: *brightness* kam karo ya *auto brightness* on karo.","head":"TIP 1","v":{"type":"icon","name":"bulb","text":"BRIGHTNESS KAM / AUTO"}},
+{"hi":"दूसरी, स्क्रीन टाइमआउट छोटा रखो, ताकि स्क्रीन जल्दी बंद हो।","cap":"Doosri: *screen timeout* chhota rakho.","head":"TIP 2","v":{"type":"icon","name":"clock","text":"SCREEN TIMEOUT CHHOTA"}},
+{"hi":"तीसरी, डार्क मोड लगाओ। ओलेड स्क्रीन वाले फोन में इससे बैटरी बचती है।","cap":"Teesri: *dark mode* lagao. *OLED* screen pe battery bachti hai.","head":"TIP 3","v":{"type":"icon","name":"phone","text":"DARK MODE (OLED)"}},
+{"hi":"चौथी, बैटरी सेवर मोड चालू करो। ये बैकग्राउंड का काम कम कर देता है।","cap":"Chauthi: *battery saver* on karo. Background kaam kam ho jata hai.","head":"TIP 4","v":{"type":"icon","name":"battery","text":"BATTERY SAVER ON"}},
+{"hi":"और एक गलतफहमी। बार बार ऐप्स स्वाइप करके बंद करने से, आमतौर पर बैटरी नहीं बचती। ऐप दोबारा खोलने में, उल्टा ज़्यादा बैटरी लग सकती है।","cap":"*Myth:* apps swipe karke band karne se battery *nahi* bachti. Dobara kholne mein zyaada lag sakti hai.","head":"MYTH!","v":{"type":"compare","left":{"title":"GALAT","items":["BAAR BAAR","APPS SWIPE"]},"right":{"title":"SAHI","items":["APPS KO","CHHOD DO"]}}},
+{"hi":"काम की टिप लगी? सेव करो, और ऐसी टिप्स के लिए फॉलो करो।","cap":"Kaam ki tip lagi? *Save* karo aur *follow* karo!","head":"YAAD RAKHO","v":{"type":"list","items":["BRIGHTNESS KAM","TIMEOUT CHHOTA","DARK MODE","BATTERY SAVER"],"icons":["bulb","clock","phone","battery"]}}
+]}

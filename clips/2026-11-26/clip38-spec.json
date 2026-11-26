@@ -1,0 +1,10 @@
+{"scenes":[
+{"hi":"दिमाग लगाओ! ये सवाल सुनने में आसान है, पर है नहीं।","cap":"Dimaag lagao! Sawaal *aasaan* lagta hai... par hai nahi.","v":{"type":"host","badge":"PAHELI","wave":true}},
+{"hi":"पाँच मशीनें, पाँच मिनट में, पाँच खिलौने बनाती हैं।","cap":"*5 machines*, *5 minute* mein, *5 khilone* banati hain.","head":"5 MACHINES","sub":"5 MINUTE = 5 KHILONE","v":{"type":"icon","name":"clock"}},
+{"hi":"तो सौ मशीनें, सौ खिलौने बनाने में, कितने मिनट लेंगी?","cap":"Toh *100 machines*, *100 khilone* banane mein kitne minute lengi?","head":"100 MACHINES?","v":{"type":"options","items":["A) 100 MINUTE","B) 20 MINUTE","C) 5 MINUTE"]}},
+{"hi":"सोचो, बस पाँच सेकंड।","cap":"Socho... bas *5 second*.","sil":4.0,"v":{"type":"timer","secs":5}},
+{"hi":"ज़्यादातर लोग बोलते हैं, सौ मिनट। लेकिन ये गलत है।","cap":"Zyaadatar log bolte hain *100 minute*... lekin ye *galat* hai.","head":"100? GALAT!","v":{"type":"chars","people":[{"role":"man","shirt":"green","face":"o","say":"100 MINUTE!"}]}},
+{"hi":"एक मशीन, एक खिलौना बनाने में, पाँच मिनट लेती है।","cap":"*1 machine* ko *1 khilona* banane mein *5 minute* lagte hain.","head":"1 MACHINE = 1 KHILONA","sub":"= 5 MINUTE","v":{"type":"icon","name":"clock"}},
+{"hi":"तो सौ मशीनें एक साथ, सौ खिलौने भी, पाँच मिनट में ही बना देंगी!","cap":"Toh *100 machines* ek saath, 100 khilone bhi *5 minute* mein bana dengi!","head":"JAWAB: 5 MINUTE","v":{"type":"options","items":["A) 100 MINUTE","B) 20 MINUTE","C) 5 MINUTE"],"answer":2,"reveal":true}},
+{"hi":"सही जवाब दिया? कमेंट में लिखो, और रोज़ ऐसी पहेलियों के लिए फॉलो करो।","cap":"Sahi jawab diya? *Comment* karo aur *follow* karo!","v":{"type":"host","wave":true,"say":"FOLLOW KARO!"}}
+]}
