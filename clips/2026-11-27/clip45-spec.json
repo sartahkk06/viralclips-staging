@@ -1,0 +1,9 @@
+{"palette":"purple","scenes":[
+{"hi":"कभी गौर किया? चाँद का, हमेशा एक ही चेहरा दिखता है।","cap":"Kabhi gaur kiya? *Chaand* ka hamesha *ek hi chehra* dikhta hai!","head":"CHAAND KA RAAZ","v":{"type":"icon","name":"question","text":"HAMESHA EK HI SIDE?"}},
+{"hi":"तो क्या चाँद, घूमता ही नहीं?","cap":"Toh kya chaand *ghoomta hi nahi*?","v":{"type":"chars","people":[{"role":"kid","shirt":"orange","face":"o","say":"GHOOMTA NAHI KYA?"}]}},
+{"hi":"घूमता है! पर चाँद को, अपनी धुरी पर एक चक्कर लगाने में, उतना ही समय लगता है, जितना पृथ्वी का एक चक्कर लगाने में।","cap":"Ghoomta hai! *Apni dhuri* ka 1 chakkar = *Prithvi* ka 1 chakkar: *same time*.","head":"GHOOMTA HAI!","sub":"SPIN = ORBIT","v":{"type":"icon","name":"clock","text":"1 SPIN = 1 CHAKKAR"}},
+{"hi":"इसलिए उसका पिछला हिस्सा, हमें कभी नहीं दिखता। इसे कहते हैं, टाइडल लॉकिंग।","cap":"Isliye *peeche ka hissa* kabhi nahi dikhta. Ise kehte hain *tidal locking*.","head":"TIDAL LOCKING","v":{"type":"icon","name":"lock","text":"EK CHEHRA LOCK"}},
+{"hi":"बहुत पहले, पृथ्वी के खिंचाव ने, चाँद का घूमना धीरे धीरे कम किया, जब तक दोनों समय बराबर नहीं हो गए।","cap":"Bahut pehle *Prithvi ke khinchaav* ne chaand ka spin *dheema* kiya... jab tak dono *barabar* na hue.","head":"KAISE HUA?","v":{"type":"compare","left":{"title":"PEHLE","items":["TEZ SPIN"]},"right":{"title":"AB","items":["SPIN = ORBIT","EK CHEHRA"]}}},
+{"hi":"और एक मज़ेदार बात, चाँद हर साल, करीब चार सेंटीमीटर, पृथ्वी से दूर जा रहा है।","cap":"Aur: chaand har saal *lagbhag 4 cm* door ja raha hai!","head":"HAR SAAL DOOR","v":{"type":"number","value":4,"prefix":"~","suffix":" CM / SAAL"}},
+{"hi":"नई बात पता चली? कमेंट में बताओ, अगला सवाल क्या हो।","cap":"Nayi baat pata chali? *Comment* mein batao, agla *sawaal* kya ho!","v":{"type":"host","wave":true,"shirt":"purple","say":"AGLA SAWAAL?"}}
+]}

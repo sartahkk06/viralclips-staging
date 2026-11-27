@@ -1,0 +1,9 @@
+{"palette":"green","scenes":[
+{"hi":"यूपीआई पेमेंट फेल हो गया, लेकिन पैसे कट गए? घबराओ मत।","cap":"UPI payment *fail*... par *paise kat gaye*? Ghabrao mat!","head":"UPI FAIL?","v":{"type":"icon","name":"warning","text":"PAISE KAT GAYE?"}},
+{"hi":"कई बार पैसे खाते से कट जाते हैं, पर सामने वाले के खाते में नहीं पहुँचते।","cap":"Kabhi paise *kat jaate* hain, par *saamne wale* tak nahi pahunchte.","v":{"type":"chars","people":[{"role":"man","shirt":"teal","face":"sad","say":"KAT GAYE!"},{"role":"woman","shirt":"pink","face":"o","say":"NAHI MILE!"}]}},
+{"hi":"आरबीआई के नियम से, ऐसे में पैसा अपने आप वापस आना चाहिए, ज़्यादा से ज़्यादा, ट्रांज़ैक्शन के अगले दिन तक।","cap":"*RBI* ka niyam: paisa *apne aap* wapas, max *agle din* tak (T+1).","head":"RBI NIYAM","sub":"T + 1 DIN","v":{"type":"icon","name":"clock","text":"AUTO REFUND"}},
+{"hi":"इससे ज़्यादा देर हुई, तो बैंक को, हर दिन के सौ रुपये, मुआवज़ा देना होता है।","cap":"Der hui toh bank deta hai *Rs 100 har din* ka muaavza.","head":"DER HUI TOH","v":{"type":"number","value":100,"prefix":"Rs ","suffix":" / DIN"}},
+{"hi":"दुकान पर किए पेमेंट में, ये समय, पाँच दिन तक का है।","cap":"*Dukaan (merchant)* payment mein ye time *5 din* tak hai.","head":"DUKAAN PE PAYMENT?","sub":"T + 5 DIN","v":{"type":"icon","name":"coin","text":"PHIR Rs 100 / DIN"}},
+{"hi":"ये मुआवज़ा, बिना शिकायत के, अपने आप खाते में आना चाहिए। न आए, तो पहले बैंक से शिकायत करो, फिर आरबीआई ओम्बड्समैन से।","cap":"Muaavza *apne aap* aana chahiye. Na aaye? Pehle *bank*, phir *RBI Ombudsman*.","head":"NA AAYE TOH?","v":{"type":"list","items":["MUAAVZA APNE AAP","1. BANK SE SHIKAYAT","2. RBI OMBUDSMAN"],"icons":["check","phone","book"]}},
+{"hi":"ये जानकारी, घर में सबको भेजो, और सेव करके रखो।","cap":"Ye jaankari *ghar mein sabko* bhejo, aur *save* karo!","v":{"type":"host","wave":true,"shirt":"green","say":"SAVE KARO!"}}
+]}

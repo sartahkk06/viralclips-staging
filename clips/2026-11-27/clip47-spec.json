@@ -1,0 +1,9 @@
+{"palette":"green","scenes":[
+{"hi":"एक पहेली, दिमाग की बत्ती जलाओ!","cap":"Ek *paheli*... dimaag ki *batti* jalao!","v":{"type":"host","badge":"PAHELI","wave":true,"shirt":"orange"}},
+{"hi":"मैं जितना सुखाता हूँ, उतना ही गीला होता जाता हूँ।","cap":"Main jitna *sukhata* hoon... utna hi *geela* hota jaata hoon.","head":"MAIN KAUN?","v":{"type":"icon","name":"question","text":"SUKHATA + GEELA?"}},
+{"hi":"और रोज़ सुबह, आप मुझे इस्तेमाल करते हो।","cap":"Aur roz *subah* aap mujhe use karte ho.","head":"HINT","v":{"type":"icon","name":"water","text":"ROZ SUBAH"}},
+{"hi":"बताओ, मैं कौन हूँ? बादल, तौलिया, या छाता?","cap":"Batao, main kaun? *Baadal*, *towel* ya *chhata*?","head":"MAIN KAUN?","v":{"type":"options","items":["A) BAADAL","B) TOWEL (TAULIYA)","C) CHHATA"]}},
+{"hi":"पाँच सेकंड, जल्दी!","cap":"*5 second*... jaldi!","sil":4.0,"v":{"type":"timer","secs":5}},
+{"hi":"जवाब है, तौलिया! ये आपको सुखाता है, और खुद गीला हो जाता है।","cap":"Jawab: *towel (tauliya)*! Aapko sukhata hai, aur *khud geela* ho jata hai.","head":"JAWAB: TOWEL","v":{"type":"options","items":["A) BAADAL","B) TOWEL (TAULIYA)","C) CHHATA"],"answer":1,"reveal":true}},
+{"hi":"सही लगा? ये पहेली, एक दोस्त को भेजो, और उससे पूछो!","cap":"Sahi laga? Ek *dost* ko bhejo aur usse *poocho*!","v":{"type":"host","wave":true,"shirt":"orange","face":"laugh","say":"DOST SE POOCHO!"}}
+]}

@@ -1,0 +1,9 @@
+{"palette":"mix","scenes":[
+{"hi":"ऑनलाइन फ्रॉड से बचना है? ये चार बातें याद रखो।","cap":"Online *fraud* se bachna hai? Ye *4 baatein* yaad rakho.","head":"FRAUD SE BACHO","v":{"type":"icon","name":"lock","text":"4 BAATEIN"}},
+{"hi":"पहली, ओटीपी, पिन, या सीवीवी, कभी किसी को मत बताओ।","cap":"Pehli: *OTP, PIN, CVV* kabhi kisi ko *mat batao*.","head":"1","v":{"type":"icon","name":"cross","text":"OTP / PIN / CVV: NAHI"}},
+{"hi":"दूसरी, यूपीआई पिन, सिर्फ़ पैसे भेजने के लिए डालते हैं। पैसे लेने के लिए, पिन नहीं डालना होता।","cap":"Doosri: *UPI PIN* sirf *bhejne* ke liye. Paise *lene* ke liye PIN *nahi*.","head":"2","v":{"type":"compare","left":{"title":"LENE KE LIYE","items":["PIN NAHI"]},"right":{"title":"BHEJNE KE LIYE","items":["PIN HAAN"]}}},
+{"hi":"तीसरी, अनजान यूपीआई आईडी से आई पेमेंट रिक्वेस्ट को, अप्रूव मत करो।","cap":"Teesri: *anjaan UPI ID* ki payment request *approve mat* karo.","head":"3","v":{"type":"icon","name":"warning","text":"ANJAAN REQUEST? NO"}},
+{"hi":"चौथी, फ्रॉड हो जाए, तो तुरंत, वन नाइन थ्री ज़ीरो पर कॉल करो, या साइबरक्राइम डॉट जीओवी डॉट इन पर शिकायत करो।","cap":"Chauthi: fraud hua? Turant *1930* call karo ya *cybercrime.gov.in* pe shikayat.","head":"4","sub":"CYBERCRIME.GOV.IN","v":{"type":"icon","name":"phone","text":"CALL 1930"}},
+{"hi":"और शक वाली कॉल या मैसेज को, संचार साथी पोर्टल के चक्षु पर, रिपोर्ट कर सकते हो।","cap":"Shaq wali *call ya message*? *Sanchar Saathi* ke *Chakshu* pe report karo.","head":"BONUS","sub":"SANCHARSAATHI.GOV.IN","v":{"type":"icon","name":"warning","text":"CHAKSHU PE REPORT"}},
+{"hi":"ये वीडियो, घर के बड़ों को ज़रूर भेजो, और फॉलो करो।","cap":"Ye video *ghar ke badon* ko zaroor bhejo, aur *follow* karo!","head":"YAAD RAKHO","v":{"type":"list","items":["OTP KISI KO NAHI","LENE PE PIN NAHI","ANJAAN REQUEST NAHI","FRAUD? CALL 1930"],"icons":["lock","coin","warning","phone"]}}
+]}

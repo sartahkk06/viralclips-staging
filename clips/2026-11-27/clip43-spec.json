@@ -1,0 +1,10 @@
+{"palette":"blue","scenes":[
+{"hi":"सवाल छोटा है, पर ध्यान से सुनना!","cap":"Sawaal chhota hai... par *dhyaan se* sunna!","v":{"type":"host","badge":"PAHELI","wave":true}},
+{"hi":"एक किसान के पास, सत्रह बकरियाँ थीं।","cap":"Ek kisaan ke paas *17 bakriyan* thi.","head":"17 BAKRIYAN","v":{"type":"chars","people":[{"role":"elder","shirt":"green","label":"KISAAN"}]}},
+{"hi":"एक रात, नौ को छोड़कर, बाकी सब भाग गईं।","cap":"Ek raat, *9 ko chhodkar*, baaki sab *bhaag gayi*.","head":"9 KO CHHODKAR...","v":{"type":"chars","people":[{"role":"elder","shirt":"green","face":"sad","say":"ARE! BHAAG GAYI!"}]}},
+{"hi":"तो बताओ, किसान के पास अब, कितनी बकरियाँ बचीं?","cap":"Toh batao, kisaan ke paas ab *kitni bakriyan* bachi?","head":"KITNI BACHI?","v":{"type":"options","items":["A) 8","B) 9","C) 17"]}},
+{"hi":"टाइमर शुरू!","cap":"*Timer* shuru!","sil":4.0,"v":{"type":"timer","secs":5}},
+{"hi":"जल्दी में लोग घटा देते हैं, सत्रह में से नौ, यानी आठ।","cap":"Jaldi mein log ghata dete hain: *17 - 9 = 8*.","head":"8? GALAT!","v":{"type":"chars","people":[{"role":"man","shirt":"red","face":"o","say":"17 - 9 = 8!"}]}},
+{"hi":"पर जवाब सवाल में ही है। नौ को छोड़कर सब भागीं, यानी नौ बकरियाँ बचीं!","cap":"Par jawab sawaal mein hi hai: *9 ko chhodkar* sab bhaagi... yaani *9 bachi*!","head":"JAWAB: 9","v":{"type":"options","items":["A) 8","B) 9","C) 17"],"answer":1,"reveal":true}},
+{"hi":"आपका जवाब क्या था? कमेंट में लिखो, और ऐसी पहेलियों के लिए फॉलो करो।","cap":"Aapka jawab kya tha? *Comment* karo aur *follow* karo!","v":{"type":"host","wave":true,"face":"laugh","say":"COMMENT KARO!"}}
+]}

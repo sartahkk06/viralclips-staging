@@ -1,0 +1,149 @@
+{
+"palette": "orange",
+"scenes": [
+{
+"hi": "आज का जोक, बारिश वाला!",
+"cap": "Aaj ka *joke*... baarish wala!",
+"v": {
+"type": "host",
+"badge": "JOKE",
+"face": "laugh",
+"wave": true
+}
+},
+{
+"hi": "बाहर काले बादल थे, बारिश बस शुरू होने वाली थी।",
+"cap": "Bahar *kaale baadal* the... *baarish* bas shuru hone wali thi.",
+"head": "BAARISH AANE WALI HAI",
+"v": {
+"type": "icon",
+"name": "water",
+"text": "KAALE BAADAL"
+}
+},
+{
+"hi": "एक आदमी, छाता खरीदने दुकान पर गया।",
+"cap": "Ek aadmi *chhata* khareedne dukaan pe gaya.",
+"v": {
+"type": "chars",
+"people": [
+{
+"role": "man",
+"shirt": "blue",
+"label": "GRAAHAK"
+},
+{
+"role": "elder",
+"shirt": "brown",
+"label": "DUKAANDAAR"
+}
+]
+}
+},
+{
+"hi": "भैया, ये छाता कितने का है?",
+"cap": "\"Bhaiya, ye *chhata* kitne ka hai?\"",
+"v": {
+"type": "chars",
+"people": [
+{
+"role": "man",
+"shirt": "blue",
+"say": "YE KITNE KA?"
+},
+{
+"role": "elder",
+"shirt": "brown"
+}
+]
+}
+},
+{
+"hi": "तीन सौ रुपये का।",
+"cap": "\"*300 rupaye* ka.\"",
+"v": {
+"type": "chars",
+"people": [
+{
+"role": "man",
+"shirt": "blue"
+},
+{
+"role": "elder",
+"shirt": "brown",
+"say": "300 RUPAYE"
+}
+]
+}
+},
+{
+"hi": "तीन सौ? इतना महंगा! बारिश तो फ्री में आती है!",
+"cap": "\"300? Itna *mehenga*! *Baarish* toh free mein aati hai!\"",
+"v": {
+"type": "chars",
+"people": [
+{
+"role": "man",
+"shirt": "blue",
+"face": "o",
+"say": "BAARISH TOH FREE HAI!"
+},
+{
+"role": "elder",
+"shirt": "brown"
+}
+]
+}
+},
+{
+"hi": "हाँ भाई, इसीलिए भीगना भी फ्री है!",
+"cap": "\"Haan bhai... isiliye *bheegna bhi free* hai!\"",
+"v": {
+"type": "chars",
+"people": [
+{
+"role": "man",
+"shirt": "blue",
+"face": "o"
+},
+{
+"role": "elder",
+"shirt": "brown",
+"face": "laugh",
+"say": "BHEEGNA BHI FREE!"
+}
+]
+}
+},
+{
+"hi": "अच्छा भैया, एक छाता दे दो।",
+"cap": "\"Achha bhaiya... *ek chhata* de do.\"",
+"v": {
+"type": "chars",
+"people": [
+{
+"role": "man",
+"shirt": "blue",
+"face": "sad",
+"say": "EK DE DO..."
+},
+{
+"role": "elder",
+"shirt": "brown",
+"face": "laugh"
+}
+]
+}
+},
+{
+"hi": "आप होते तो क्या बोलते? कमेंट करो, और रोज़ नए जोक के लिए फॉलो करो।",
+"cap": "Aap hote toh kya bolte? *Comment* karo, roz naye joke ke liye *follow*!",
+"v": {
+"type": "host",
+"face": "laugh",
+"wave": true,
+"say": "COMMENT KARO!"
+}
+}
+]
+}
