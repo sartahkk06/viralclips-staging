@@ -1,0 +1,98 @@
+{
+"palette": "blue",
+"scenes": [
+{
+"hi": "प्याज़ काटते ही, आँखों से आँसू क्यों आते हैं?",
+"cap": "Pyaaz kaatte hi *aansu* kyun aate hain?",
+"head": "PYAAZ = AANSU?",
+"v": {
+"type": "icon",
+"name": "question",
+"text": "KYUN?"
+}
+},
+{
+"hi": "प्याज़ कटते ही, उसके अंदर से एक एंज़ाइम निकलता है।",
+"cap": "Pyaaz kat-te hi andar se ek *enzyme* nikalta hai.",
+"head": "STEP 1",
+"v": {
+"type": "icon",
+"name": "bulb",
+"text": "ENZYME NIKLA"
+}
+},
+{
+"hi": "ये एंज़ाइम, प्याज़ के कुछ केमिकल्स को, सल्फ़ेनिक एसिड में बदल देता है।",
+"cap": "Ye enzyme kuch chemicals ko *sulfenic acid* mein badal deta hai.",
+"head": "STEP 2",
+"v": {
+"type": "icon",
+"name": "water",
+"text": "SULFENIC ACID"
+}
+},
+{
+"hi": "ये एसिड टिकता नहीं, बदलकर एक तीखा केमिकल बनता है, जो हवा में उड़कर, आँखों तक पहुँचता है।",
+"cap": "Ye acid badal ke ek *teekha chemical* banta hai, jo *hawa* se aankhon tak pahunchta hai.",
+"head": "STEP 3",
+"sub": "SYN-PROPANETHIAL-S-OXIDE",
+"v": {
+"type": "icon",
+"name": "warning",
+"text": "HAWA MEIN"
+}
+},
+{
+"hi": "ये आँखों की आँसू वाली ग्रंथियों को परेशान करता है, और आँसू निकल आते हैं।",
+"cap": "Ye aankhon ki *aansu glands* ko chhedta hai... aur *aansu* nikal aate hain.",
+"head": "STEP 4",
+"v": {
+"type": "icon",
+"name": "water",
+"text": "AANSU GLANDS"
+}
+},
+{
+"hi": "यानी, काटा, एंज़ाइम, एसिड, केमिकल, और आँसू!",
+"cap": "Yaani: *kaata*, enzyme, acid, chemical... aur *aansu*!",
+"head": "POORI CHAIN",
+"v": {
+"type": "list",
+"items": [
+"PYAAZ KATA",
+"ENZYME NIKLA",
+"ACID BANA",
+"CHEMICAL HAWA MEIN",
+"AANSU!"
+],
+"icons": [
+"check",
+"check",
+"check",
+"check",
+"water"
+]
+}
+},
+{
+"hi": "मज़ेदार बात, पहले वैज्ञानिक, किसी और एंज़ाइम को दोषी मानते थे। असली वाला, दो हज़ार दो में पकड़ा गया।",
+"cap": "Pehle scientists *doosre enzyme* ko dosh dete the. Asli culprit *2002* mein mila!",
+"head": "FUN FACT",
+"v": {
+"type": "icon",
+"name": "star",
+"text": "2002 MEIN KHOJ"
+}
+},
+{
+"hi": "ऐसे ही क्यों होता है के लिए फॉलो करो। अगला सवाल कमेंट में लिखो!",
+"cap": "Aise hi *kyun hota hai* ke liye follow karo. Agla sawaal *comment* mein!",
+"v": {
+"type": "host",
+"wave": true,
+"shirt": "teal",
+"say": "AGLA SAWAAL?"
+}
+}
+]
+}

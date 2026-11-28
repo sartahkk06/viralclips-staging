@@ -1,0 +1,95 @@
+{
+"palette": "orange",
+"scenes": [
+{
+"hi": "फ़ोन खो गया, या चोरी हो गया? ये काम, तुरंत करो।",
+"cap": "Phone *kho gaya* ya *chori* ho gaya? Ye kaam *turant* karo.",
+"head": "PHONE KHO GAYA?",
+"v": {
+"type": "icon",
+"name": "phone",
+"text": "AB KYA KAREIN?"
+}
+},
+{
+"hi": "पहला, पुलिस में शिकायत करो, और उसकी कॉपी संभालकर रखो।",
+"cap": "Pehla: *police complaint* karo, aur copy sambhal ke rakho.",
+"head": "STEP 1",
+"v": {
+"type": "icon",
+"name": "book",
+"text": "POLICE COMPLAINT"
+}
+},
+{
+"hi": "दूसरा, अपनी मोबाइल कंपनी से, उसी नंबर का नया सिम लो, क्योंकि ओटीपी उसी पर आएगा।",
+"cap": "Doosra: company se *usi number* ka *naya SIM* lo, OTP usi pe aayega.",
+"head": "STEP 2",
+"sub": "NAYA SIM, WAHI NUMBER",
+"v": {
+"type": "icon",
+"name": "phone",
+"text": "OTP ISI PE"
+}
+},
+{
+"hi": "तीसरा, सरकार के संचार साथी पोर्टल पर, खोया फ़ोन ब्लॉक करने का फ़ॉर्म भरो।",
+"cap": "Teesra: *Sanchar Saathi* portal pe *block* ka form bharo.",
+"head": "STEP 3",
+"sub": "SANCHARSAATHI.GOV.IN",
+"v": {
+"type": "icon",
+"name": "lock",
+"text": "BLOCK KARO"
+}
+},
+{
+"hi": "इसके लिए, शिकायत की कॉपी, और पहचान पत्र चाहिए। फ़ोन का बिल हो, तो अच्छा।",
+"cap": "Chahiye: *complaint copy*, *ID proof*... bill ho toh achha.",
+"head": "KYA CHAHIYE?",
+"v": {
+"type": "list",
+"items": [
+"COMPLAINT COPY",
+"ID PROOF",
+"BILL (OPTIONAL)"
+],
+"icons": [
+"book",
+"check",
+"coin"
+]
+}
+},
+{
+"hi": "ब्लॉक होने पर, वो फ़ोन, किसी भी कंपनी के नेटवर्क पर नहीं चलेगा, और जानकारी, ढूंढने के लिए पुलिस को जाती है।",
+"cap": "Block hone pe phone *kisi network* pe nahi chalega, info *police* ko jaati hai.",
+"head": "FAYDA",
+"v": {
+"type": "icon",
+"name": "lock",
+"text": "SAB NETWORK PE BLOCK"
+}
+},
+{
+"hi": "आपको, अठारह अंकों की रिक्वेस्ट आईडी मिलेगी। इसे संभालो। फ़ोन मिल जाए, तो इसी से अनब्लॉक करो।",
+"cap": "Milegi *18-digit Request ID*. Sambhalo! Phone mile toh isi se *unblock*.",
+"head": "REQUEST ID",
+"v": {
+"type": "icon",
+"name": "check",
+"text": "18 DIGIT ID SAMBHALO"
+}
+},
+{
+"hi": "ये वीडियो, घर में सबको भेजो। कभी भी काम आएगा।",
+"cap": "Ye video *ghar mein sabko* bhejo, kabhi bhi kaam aayega!",
+"v": {
+"type": "host",
+"wave": true,
+"shirt": "orange",
+"say": "SHARE KARO!"
+}
+}
+]
+}

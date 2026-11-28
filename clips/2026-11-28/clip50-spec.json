@@ -1,0 +1,103 @@
+{
+"palette": "green",
+"scenes": [
+{
+"hi": "घड़ी वाली पहेली! ध्यान से सुनो।",
+"cap": "*Ghadi* wali paheli! Dhyan se suno.",
+"v": {
+"type": "host",
+"badge": "PAHELI",
+"wave": true,
+"shirt": "green"
+}
+},
+{
+"hi": "एक घड़ी, छह बजे, छह बार बजती है, और इसमें, पाँच सेकंड लगते हैं।",
+"cap": "Ek ghadi 6 baje *6 baar* bajti hai... aur lagte hain *5 second*.",
+"head": "6 BAJE",
+"sub": "6 BAAR = 5 SECOND",
+"v": {
+"type": "icon",
+"name": "clock",
+"text": "TAN TAN TAN..."
+}
+},
+{
+"hi": "तो बारह बजे, बारह बार बजने में, कितने सेकंड लगेंगे?",
+"cap": "Toh 12 baje *12 baar* bajne mein *kitne second*?",
+"head": "12 BAJE",
+"sub": "12 BAAR = ?",
+"v": {
+"type": "icon",
+"name": "question",
+"text": "KITNE SECOND?"
+}
+},
+{
+"hi": "दस, ग्यारह, या बारह?",
+"cap": "*10*, *11* ya *12*?",
+"head": "SOCHO!",
+"v": {
+"type": "options",
+"items": [
+"A) 10 SECOND",
+"B) 11 SECOND",
+"C) 12 SECOND"
+]
+}
+},
+{
+"hi": "पाँच सेकंड, जल्दी!",
+"cap": "*5 second*... jaldi!",
+"sil": 4.0,
+"v": {
+"type": "timer",
+"secs": 5
+}
+},
+{
+"hi": "जवाब है, ग्यारह सेकंड! छह बार बजने में, बीच में पाँच गैप होते हैं, यानी हर गैप, एक सेकंड।",
+"cap": "Jawab: *11 second*! 6 baar mein beech mein *5 gap*, yaani har gap *1 second*.",
+"head": "JAWAB: 11",
+"v": {
+"type": "options",
+"items": [
+"A) 10 SECOND",
+"B) 11 SECOND",
+"C) 12 SECOND"
+],
+"answer": 1,
+"reveal": true
+}
+},
+{
+"hi": "बारह बार बजने में, ग्यारह गैप। तो, ग्यारह सेकंड।",
+"cap": "12 baar mein *11 gap*... toh *11 second*.",
+"head": "LOGIC",
+"v": {
+"type": "list",
+"items": [
+"6 BAAR = 5 GAP = 5 SEC",
+"1 GAP = 1 SEC",
+"12 BAAR = 11 GAP = 11 SEC"
+],
+"icons": [
+"clock",
+"check",
+"star"
+]
+}
+},
+{
+"hi": "आपने बारह बोला था? सच बताओ, कमेंट में!",
+"cap": "Aapne *12* bola tha? Sach batao, *comment* mein!",
+"v": {
+"type": "host",
+"face": "laugh",
+"wave": true,
+"shirt": "green",
+"say": "SACH BATAO!"
+}
+}
+]
+}

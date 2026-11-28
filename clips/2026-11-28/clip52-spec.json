@@ -1,0 +1,95 @@
+{
+"palette": "purple",
+"scenes": [
+{
+"hi": "बिजली कितनी दूर गिरी? बस गिनती करके पता करो!",
+"cap": "*Bijli* kitni door giri? Bas *ginti* karke pata karo!",
+"head": "BIJLI KITNI DOOR?",
+"v": {
+"type": "icon",
+"name": "bulb",
+"text": "GINTI KA TRICK"
+}
+},
+{
+"hi": "बिजली की चमक, हमें तुरंत दिख जाती है, पर गरज की आवाज़, धीरे पहुँचती है।",
+"cap": "*Chamak* turant dikhti hai... par *garaj* ki awaaz dheere pahunchti hai.",
+"head": "PEHLE CHAMAK",
+"sub": "PHIR GARAJ",
+"v": {
+"type": "icon",
+"name": "star",
+"text": "CHAMAK TURANT"
+}
+},
+{
+"hi": "किसी सुरक्षित जगह पर रहकर, चमक दिखते ही, सेकंड गिनना शुरू करो, जब तक गरज न सुनाई दे।",
+"cap": "*Safe jagah* se, chamak dikhte hi *second gino*... jab tak garaj na sune.",
+"head": "SECOND GINO",
+"v": {
+"type": "icon",
+"name": "clock",
+"text": "1... 2... 3..."
+}
+},
+{
+"hi": "अब, सेकंड को तीन से भाग दो। जवाब, किलोमीटर में दूरी है।",
+"cap": "Ab second ko *3 se divide* karo = doori *km* mein.",
+"head": "TRICK",
+"v": {
+"type": "icon",
+"name": "brain",
+"text": "SECOND / 3 = KM"
+}
+},
+{
+"hi": "जैसे, पंद्रह सेकंड, यानी लगभग पाँच किलोमीटर दूर।",
+"cap": "Jaise *15 second* = lagbhag *5 km* door.",
+"head": "MISAAL",
+"sub": "15 / 3 = 5 KM",
+"v": {
+"type": "icon",
+"name": "check",
+"text": "5 KM DOOR"
+}
+},
+{
+"hi": "पर याद रखो, गरज सुनाई दे, तो आप बिजली की पहुँच में हो सकते हो। तुरंत, घर या बिल्डिंग के अंदर जाओ।",
+"cap": "Garaj suni? Aap *bijli ki pahunch* mein ho sakte ho. Turant *andar* jao!",
+"head": "SAVDHAAN",
+"v": {
+"type": "icon",
+"name": "warning",
+"text": "GARAJ = ANDAR JAO"
+}
+},
+{
+"hi": "और आखिरी गरज के बाद, कम से कम तीस मिनट, अंदर ही रहो। बारिश रुकी, तो भी।",
+"cap": "Aakhri garaj ke baad *30 minute* andar raho. Baarish ruki, *tab bhi*!",
+"head": "30 MINUTE RULE",
+"v": {
+"type": "list",
+"items": [
+"GARAJ SUNI = ANDAR",
+"30 MINUTE RUKO",
+"BAARISH RUKI? TAB BHI"
+],
+"icons": [
+"warning",
+"clock",
+"check"
+]
+}
+},
+{
+"hi": "ये ट्रिक, घर के बच्चों को भी सिखाओ। शेयर करो!",
+"cap": "Ye trick *bachchon* ko bhi sikhao. *Share* karo!",
+"v": {
+"type": "host",
+"wave": true,
+"shirt": "purple",
+"say": "SHARE KARO!"
+}
+}
+]
+}

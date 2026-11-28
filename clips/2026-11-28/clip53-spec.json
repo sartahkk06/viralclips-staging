@@ -1,0 +1,83 @@
+{
+"palette": "mix",
+"scenes": [
+{
+"hi": "आज की पहेली, सोचो और बताओ!",
+"cap": "Aaj ki *paheli*... socho aur batao!",
+"v": {
+"type": "host",
+"badge": "PAHELI",
+"wave": true,
+"shirt": "teal"
+}
+},
+{
+"hi": "मेरे बहुत सारे दाँत हैं, पर मैं कभी किसी को काटती नहीं।",
+"cap": "Mere *bahut saare daant* hain... par main *kaat-ti nahi*.",
+"head": "MAIN KAUN?",
+"v": {
+"type": "icon",
+"name": "question",
+"text": "DAANT HAIN, KAAT-TI NAHI"
+}
+},
+{
+"hi": "मैं अक्सर, आपके घर में, शीशे के पास मिलती हूँ।",
+"cap": "Main aksar *sheeshe ke paas* milti hoon.",
+"head": "HINT",
+"v": {
+"type": "icon",
+"name": "star",
+"text": "SHEESHE KE PAAS"
+}
+},
+{
+"hi": "बताओ, मैं कौन? कैंची, कंघी, या आरी?",
+"cap": "Batao: *kainchi*, *kanghi* ya *aari*?",
+"head": "MAIN KAUN?",
+"v": {
+"type": "options",
+"items": [
+"A) KAINCHI",
+"B) KANGHI",
+"C) AARI"
+]
+}
+},
+{
+"hi": "पाँच सेकंड, जल्दी!",
+"cap": "*5 second*... jaldi!",
+"sil": 4.0,
+"v": {
+"type": "timer",
+"secs": 5
+}
+},
+{
+"hi": "जवाब है, कंघी! दाँत बहुत सारे, पर काटती नहीं, बस बाल सँवारती है।",
+"cap": "Jawab: *kanghi*! Daant bahut, par kaat-ti nahi, bas *baal sanvaarti* hai.",
+"head": "JAWAB: KANGHI",
+"v": {
+"type": "options",
+"items": [
+"A) KAINCHI",
+"B) KANGHI",
+"C) AARI"
+],
+"answer": 1,
+"reveal": true
+}
+},
+{
+"hi": "कितने सेकंड में सोचा? कमेंट में लिखो, और ऐसी पहेलियों के लिए फॉलो करो!",
+"cap": "Kitne second mein socha? *Comment* karo, aur *follow*!",
+"v": {
+"type": "host",
+"face": "laugh",
+"wave": true,
+"shirt": "teal",
+"say": "KITNE SECOND?"
+}
+}
+]
+}

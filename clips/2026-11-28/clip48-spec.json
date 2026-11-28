@@ -1,0 +1,153 @@
+{
+"palette": "purple",
+"scenes": [
+{
+"hi": "आज का जोक, क्लासरूम वाला!",
+"cap": "Aaj ka *joke*... classroom wala!",
+"v": {
+"type": "host",
+"badge": "JOKE",
+"face": "laugh",
+"wave": true,
+"shirt": "purple"
+}
+},
+{
+"hi": "टीचर ने पप्पू की होमवर्क कॉपी खोली, और हैरान रह गए।",
+"cap": "Teacher ne Pappu ki *homework copy* kholi... aur *hairaan* reh gaye.",
+"v": {
+"type": "chars",
+"people": [
+{
+"role": "teacher",
+"shirt": "brown",
+"label": "TEACHER",
+"face": "o"
+},
+{
+"role": "kid",
+"shirt": "blue",
+"label": "PAPPU"
+}
+]
+}
+},
+{
+"hi": "पप्पू, पूरे पेज पर, सिर्फ़ तुम्हारा नाम लिखा है? बाकी सवाल कहाँ हैं?",
+"cap": "\"Pappu, poore page pe *sirf tumhara naam*? Baaki sawaal kahan?\"",
+"v": {
+"type": "chars",
+"people": [
+{
+"role": "teacher",
+"shirt": "brown",
+"label": "TEACHER",
+"face": "angry",
+"say": "SIRF NAAM?"
+},
+{
+"role": "kid",
+"shirt": "blue",
+"label": "PAPPU"
+}
+]
+}
+},
+{
+"hi": "सर, आपने ही तो कहा था, पहले वो सवाल करो, जो आता हो।",
+"cap": "\"Sir, aapne hi kaha tha: pehle wo karo *jo aata ho*.\"",
+"v": {
+"type": "chars",
+"people": [
+{
+"role": "teacher",
+"shirt": "brown",
+"label": "TEACHER"
+},
+{
+"role": "kid",
+"shirt": "blue",
+"label": "PAPPU",
+"say": "AAPNE HI KAHA THA!"
+}
+]
+}
+},
+{
+"hi": "तो?",
+"cap": "\"Toh?\"",
+"v": {
+"type": "chars",
+"people": [
+{
+"role": "teacher",
+"shirt": "brown",
+"label": "TEACHER",
+"face": "o",
+"say": "TOH?"
+},
+{
+"role": "kid",
+"shirt": "blue",
+"label": "PAPPU"
+}
+]
+}
+},
+{
+"hi": "तो सर, मुझे तो सिर्फ़ अपना नाम ही आता था!",
+"cap": "\"Toh sir... mujhe toh *sirf apna naam* hi aata tha!\"",
+"v": {
+"type": "chars",
+"people": [
+{
+"role": "teacher",
+"shirt": "brown",
+"label": "TEACHER",
+"face": "o"
+},
+{
+"role": "kid",
+"shirt": "blue",
+"label": "PAPPU",
+"face": "laugh",
+"say": "SIRF NAAM AATA THA!"
+}
+]
+}
+},
+{
+"hi": "टीचर बोले, ठीक है, कल से तुम्हारी एक्स्ट्रा क्लास, मेरे साथ!",
+"cap": "\"Theek hai... kal se *extra class*, mere saath!\"",
+"v": {
+"type": "chars",
+"people": [
+{
+"role": "teacher",
+"shirt": "brown",
+"label": "TEACHER",
+"face": "laugh",
+"say": "KAL SE EXTRA CLASS!"
+},
+{
+"role": "kid",
+"shirt": "blue",
+"label": "PAPPU",
+"face": "sad"
+}
+]
+}
+},
+{
+"hi": "आपकी क्लास में, ऐसा कौन था? उसे टैग करो, और फॉलो करो।",
+"cap": "Aapki class mein *aisa kaun* tha? Usse *tag* karo, aur *follow*!",
+"v": {
+"type": "host",
+"face": "laugh",
+"wave": true,
+"shirt": "purple",
+"say": "TAG KARO!"
+}
+}
+]
+}
